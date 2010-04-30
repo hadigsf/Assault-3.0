@@ -1,0 +1,619 @@
+#PLAYER
+Revision     52
+Name         Rakiel~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       5812
+PlayedTot    43603
+Note         0
+Room         3
+Location         6 773 1
+Hp   		500 500
+Act          0
+Config       4456807
+Position     7
+Questpoints  1623
+Pkills	   1
+Bkills	   0
+TPkills	   1
+TBkills	   1
+Deaths	   0
+BLost	   23
+PBHits	   0
+PBDeaths	   3
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     RaGkH5YTz/BIU~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         Got a bomb~
+Whoname      Woff~
+Monitor	   0
+Host         71.163.252.87~
+Failures     0
+LastLogin    Sun Nov 18 13:26:15 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   2
+Alliance     2
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       3 3
+Spec         2
+Setexit      0
+Experience   75
+ 
+Refund   904   0   139   221   185   54   29   123
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    gs~  get stick~
+Alias    gi~  get iron~
+Alias    gr~  get rock~
+Alias    ga~  get all~
+Alias    ab~  arm bomb~
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 19999 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource gold~
+ShortDescr   @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Description  @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       3 17162 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 19921 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 9390 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 14916 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 19814 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         warp suit~
+ShortDescr   a Warp Suit~
+Description  A Warp Suit shimmers here~
+Vnum         1013
+ExtraFlags   2
+WearFlags    8650752
+WearLoc      18
+ItemType     6
+Weight       4
+Heat         0
+Level        1
+Values       1 7 0 0 0 17 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         warp suit~
+ShortDescr   a Warp Suit~
+Description  A Warp Suit shimmers here~
+Vnum         1013
+ExtraFlags   2
+WearFlags    8650752
+WearLoc      -1
+ItemType     6
+Weight       4
+Heat         0
+Level        1
+Values       1 3 0 0 0 17 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Gloves~
+ShortDescr   @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs@@N~
+Description  @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs, full of bullet holes, are here.@@N~
+Vnum         1036
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        23
+Values       1 0 -3 23 -2 5 -4 0 -11 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         sleeves metal~
+ShortDescr   @@a Me@@cta@@al@@y Slee@@bves@@N~
+Description  @@a Me@@cta@@al@@y Slee@@bves@@N has been left on the ground.~
+Vnum         1057
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       5
+Heat         1
+Level        25
+Values       1 0 -10 25 -9 0 10 -10 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Acidproof Faceguard~
+ShortDescr   @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Description  @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Vnum         1025
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        20
+Values       3 0 0 0 -8 20 -5 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots acidproof~
+ShortDescr   @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@N~
+Description  @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@g await for the taking.@@N~
+Vnum         1018
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       0
+Heat         -1
+Level        30
+Values       3 0 0 0 -5 30 -10 5 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         blastproof shoulder guards~
+ShortDescr   @@eBla@@Rstp@@eroo@@Rf@@r Shou@@Glde@@rr@@c Gua@@ards@@N~
+Description  @@eBla@@Rstp@@eroo@@Rf@@r Shou@@Glde@@rr@@c Gua@@ards@@N have been left here.~
+Vnum         1066
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       3
+Heat         -1
+Level        30
+Values       2 0 24 -14 30 -14 -4 0 -16 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laser Machinegun~
+ShortDescr   @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Description  @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Vnum         1043
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        20
+Values       999 999 13 32 1 42 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

@@ -1,0 +1,755 @@
+#PLAYER
+Revision     52
+Name         Dantis~
+Prompt       @@c[%q] @@e[@@r%h@@G/@@r%H@@Ghp @@r%T@@Gft @@y%Q@@Gqp@@e] @@cV: @@a%v@@c/@@a%V@@chp @@a%f@@c/@@a%F@@cmv @@a%m@@c/@@a%M@@cam (%C)@@N ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        11
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       5083
+PlayedTot    435219
+Note         0
+Room         3
+Location         534 994 1
+Hp   		500 500
+Act          0
+Config       4458855
+Position     7
+Questpoints  5000
+Pkills	   0
+Bkills	   13
+TPkills	   130
+TBkills	   1102
+Deaths	   119
+BLost	   153
+PBHits	   25
+PBDeaths	   8
+NukemWins	   0
+Medals	   0
+GPoints	   5
+Implants     0
+Password     Kay7O6u09DAhc~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         has 2 ideas per minute~
+Whoname      W@@e[@@dAncient@@e]@@N~
+Monitor	   0
+Host         79.181.152.69~
+Failures     0
+LastLogin    Thu Dec 27 17:12:39 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   2048
+Alliance     6
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 5
+Spec         2
+Setexit      3
+Experience   195
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   22   0   5   0   20   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 30 60 30 30 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         finger gloves~
+ShortDescr   @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N~
+Description  @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N are laying on the ground.~
+Vnum         1117
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        90
+Values       1 0 45 90 78 65 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof belt~
+ShortDescr   a@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N~
+Description  A@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N has been dropped here.~
+Vnum         1105
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       1
+Heat         1
+Level        95
+Values       1 0 47 95 47 47 47 47 47 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 40 80 40 40 40 40 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Spectra Helmet~
+ShortDescr   a @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N~
+Description  A @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N has been left on the ground.~
+Vnum         1040
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        99
+Values       1 0 49 99 49 49 49 49 49 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 30 60 30 30 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra should guards~
+ShortDescr   @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Description  @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Vnum         1115
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         0
+Level        90
+Values       1 0 45 90 45 45 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Jacket~
+ShortDescr   @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N~
+Description  @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N is laying on the ground.~
+Vnum         1113
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         2
+Level        80
+Values       1 0 49 80 40 40 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nightvision Goggles~
+ShortDescr   @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Description  @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Vnum         1041
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 40 80 40 40 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         necklace silver bullet hook~
+ShortDescr   @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N~
+Description  @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N has been dropped here.~
+Vnum         1114
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -2
+Level        85
+Values       1 0 42 85 42 42 42 42 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         EMP Bomb~
+ShortDescr   @@cAn @@aE@@yM@@aP @@cBomb@@N~
+Description  @@cAn @@aE@@yM@@aP @@cBomb lies here.@@N~
+Vnum         1149
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       1
+Heat         1
+Level        70
+Values       3 0 0 2 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Laser Battery 5th~
+ShortDescr   Blueprints for 5th level Laser battery~
+Description  Blueprints for 5th level Laser battery~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       87 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint RocketCannon 5th~
+ShortDescr   Blueprints for 5th level Rocketcannon~
+Description  Blueprints for 5th level Rocketcannon~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       135 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint AcidBlaster 5th~
+ShortDescr   Blueprints for 5th level Acidblaster~
+Description  Blueprints for 5th level Acidblaster~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       134 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint AcidBlaster 5th~
+ShortDescr   Blueprints for 5th level Acidblaster~
+Description  Blueprints for 5th level Acidblaster~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       134 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint RocketCannon 5th~
+ShortDescr   Blueprints for 5th level Rocketcannon~
+Description  Blueprints for 5th level Rocketcannon~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       135 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Laser Battery 5th~
+ShortDescr   Blueprints for 5th level Laser battery~
+Description  Blueprints for 5th level Laser battery~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       87 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Surface Jolter 5th~
+ShortDescr   Blueprints for 5th level Surface jolter~
+Description  Blueprints for 5th level Surface jolter~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       59 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint AcidBlaster 5th~
+ShortDescr   Blueprints for 5th level Acidblaster~
+Description  Blueprints for 5th level Acidblaster~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       134 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   130
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 90 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#END

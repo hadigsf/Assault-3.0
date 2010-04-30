@@ -1,0 +1,365 @@
+#PLAYER
+Revision     52
+Name         Hsi~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          2
+LoginSex     2
+Class        14
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       203958
+PlayedTot    203958
+Note         0
+Room         3
+Location         883 142 1
+Hp   		500 500
+Act          0
+Config       262503
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     HsCM30o2E9OPw~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         74.232.89.63~
+Failures     0
+LastLogin    Fri Jun  6 23:27:02 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       128
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 0
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 147 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource gold~
+ShortDescr   @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Description  @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       3 62 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 23 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       38
+Heat         0
+Level        1
+Values       1 38 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 32 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 78 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Resource Rock~
+ShortDescr   @@gA large @@drock@@N~
+Description  @@gA large @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 57 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 305 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         used clip 9mm Ammo~
+ShortDescr   A used 9mm Ammo clip~
+Description  A used clip containing some 9mm Ammo lies half-broken.~
+Vnum         1153
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       1
+Heat         0
+Level        5
+Values       0 16 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         large ammo clip 9mm~
+ShortDescr   a large 9mm ammo clip~
+Description  A large 9mm ammo clip lies in the dust.~
+Vnum         1156
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       1
+Heat         0
+Level        5
+Values       0 32 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         helmet iron~
+ShortDescr   @@gAn @@dIr@@Won @@cHe@@alm@@cet@@N~
+Description  @@gAn @@dIr@@Won @@cHe@@alm@@cet@@N is laying on the ground.~
+Vnum         1063
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       7
+Heat         -1
+Level        15
+Values       2 0 -2 -5 15 10 -5 0 5 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Shield~
+ShortDescr   @@WA @@gPla@@dst@@gic S@@Whie@@gld@@N~
+Description  @@WA @@gPla@@dst@@gic S@@Whie@@gld @@dlies here.@@N~
+Vnum         1019
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     9
+Weight       1
+Heat         -1
+Level        3
+Values       -1 0 3 -1 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Free TShirt Shirt T-Shirt~
+ShortDescr   @@WAn @@eASSAULT@@W T-Shirt@@N~
+Description  @@WAn @@eASSAULT@@W T-Shirt@@N~
+Vnum         32658
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       0
+Heat         0
+Level        1
+Values       -1 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant chunk of silver~
+Description  @@N~
+Vnum         32602
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       4 5 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant chunk of gold~
+Description  @@N~
+Vnum         32601
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       3 5 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Glock 17~
+ShortDescr   @@ga @@dG@@clo@@bc@@dk @@c17@@N~
+Description  @@gA @@dG@@clo@@bc@@dk @@c17@@g lies on the ground.@@N~
+Vnum         1000
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       1
+Heat         0
+Level        15
+Values       17 17 0 0 1 0 0 -4 3 -1 18 0 0 0 0
+Quest       0 0
+End
+
+#END

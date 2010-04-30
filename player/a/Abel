@@ -1,0 +1,382 @@
+#PLAYER
+Revision     52
+Name         Abel~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        2
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       45474
+PlayedTot    201724
+Note         0
+Room         3
+Location         387 846 1
+Hp   		500 500
+Act          0
+Config       4456807
+Position     7
+Questpoints  2252
+Pkills	   0
+Bkills	   0
+TPkills	   7
+TBkills	   68
+Deaths	   8
+BLost	   33
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   1
+GPoints	   0
+Implants     0
+Password     Ab/g4KJXewyYY~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         75.184.8.155~
+Failures     0
+LastLogin    Wed Jul  2 15:07:41 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 4
+Spec         2
+Setexit      0
+Experience   328
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   1   0   0   0   0   9   0   4   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         HE Rocket ammo~
+ShortDescr   @@Ga @@rlarge @@GHE @@rRocket@@N~
+Description  @@GA @@rlarge @@GHigh@@r-@@GExplosive @@rRocket@@G seeks a launcher.@@N~
+Vnum         1163
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        50
+Values       3 1 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         HE Rocket ammo~
+ShortDescr   @@Ga @@rlarge @@GHE @@rRocket@@N~
+Description  @@GA @@rlarge @@GHigh@@r-@@GExplosive @@rRocket@@G seeks a launcher.@@N~
+Vnum         1163
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        50
+Values       3 1 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         beer can~
+ShortDescr   a can of beer~
+Description  A can of beer rolls around here.~
+Vnum         1500
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       5
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         HE Rocket ammo~
+ShortDescr   @@Ga @@rlarge @@GHE @@rRocket@@N~
+Description  @@GA @@rlarge @@GHigh@@r-@@GExplosive @@rRocket@@G seeks a launcher.@@N~
+Vnum         1163
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        50
+Values       3 1 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         HE Rocket ammo~
+ShortDescr   @@Ga @@rlarge @@GHE @@rRocket@@N~
+Description  @@GA @@rlarge @@GHigh@@r-@@GExplosive @@rRocket@@G seeks a launcher.@@N~
+Vnum         1163
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        50
+Values       3 1 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         sonic boom rocket launcher~
+ShortDescr   @@Ga @@W"@@ySonic Boom@@W" @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N~
+Description  @@Ga @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N, nicknamed @@W"The @@ySonic Boom@@W," @@Nis here.~
+Vnum         1125
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       10
+Heat         0
+Level        50
+Values       1 1 3 32 3 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

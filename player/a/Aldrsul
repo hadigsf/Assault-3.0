@@ -1,0 +1,535 @@
+#PLAYER
+Revision     52
+Name         Aldrsul~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       874660
+PlayedTot    891068
+Note         0
+Room         3
+Location         783 833 1
+Hp   		500 500
+Act          0
+Config       264551
+Position     7
+Questpoints  4699
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     AlTsB4sbG2tdo~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         24.233.215.200~
+Failures     0
+LastLogin    Wed Dec 10 20:51:23 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       3 6
+Spec         2
+Setexit      0
+Experience   8
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   5   0   8   0   0   0   0   0   0   0   0   3   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         leg protectors iron~
+ShortDescr   @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N~
+Description  @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N are laying in the dirt.~
+Vnum         1072
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       15
+Heat         -2
+Level        60
+Values       2 6 5 31 60 -20 0 0 10 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         necklace silver bullet hook~
+ShortDescr   @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N~
+Description  @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N has been dropped here.~
+Vnum         1114
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -2
+Level        85
+Values       1 16 0 85 0 0 -29 0 19 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra arm guards~
+ShortDescr   @@pSp@@bec@@rtra arm guards@@N~
+Description  @@pSp@@bec@@rtra arm guards@@N~
+Vnum         1116
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 9 0 80 -46 0 77 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Spectra Helmet~
+ShortDescr   a @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N~
+Description  A @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N has been left on the ground.~
+Vnum         1040
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        99
+Values       1 52 20 99 -30 0 -40 20 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 81 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra should guards~
+ShortDescr   @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Description  @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Vnum         1115
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         0
+Level        90
+Values       1 43 40 90 -33 -34 -30 0 -40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof belt~
+ShortDescr   a @@aLas@@cerp@@eroo@@Rf@@l Be@@Blt@@N~
+Description  A @@aLas@@cerp@@eroo@@Rf@@l Be@@Blt@@N is laying in the dirt.~
+Vnum         1133
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       1
+Heat         2
+Level        85
+Values       5 10 0 0 -69 0 8 85 -21 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 8 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof neckbrace~
+ShortDescr   @@eF@@Rir@@ee@@Rpro@@eof@@p Nec@@mkbr@@pace@@N~
+Description  @@eF@@Rir@@ee@@Rpro@@eof@@p Nec@@mkbr@@pace@@N is laying on the ground.~
+Vnum         1109
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       4 24 0 0 -47 -5 90 0 -53 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 43 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof gloves~
+ShortDescr   @@dLas@@Wer@@gPro@@cof@@e Glo@@Rves@@N~
+Description  @@dLas@@Wer@@gPro@@cof@@e Glo@@Rves@@N has been dropped here.~
+Vnum         1130
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         2
+Level        80
+Values       5 4 0 -31 -39 0 14 80 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic goggles~
+ShortDescr   @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N~
+Description  @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N have been placed on the wall.~
+Vnum         1078
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         1
+Level        60
+Values       3 8 0 0 -15 60 18 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring~
+ShortDescr   @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N~
+Description  @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N has been dropped here.~
+Vnum         1081
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         1
+Level        85
+Values       3 5 0 10 0 85 26 0 -81 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring~
+ShortDescr   @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N~
+Description  @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N has been dropped here.~
+Vnum         1081
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      13
+ItemType     9
+Weight       1
+Heat         1
+Level        85
+Values       3 9 0 10 0 85 26 0 -81 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      4
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 53 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Acidproof Faceguard~
+ShortDescr   @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Description  @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Vnum         1025
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        20
+Values       3 8 0 0 -8 20 -5 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Flame Shield Flame-Resistant resistant~
+ShortDescr   @@eA @@RF@@el@@Ra@@em@@Re@@e-@@RR@@ee@@Rs@@ei@@Rs@@et@@Ra@@en@@Rt @@eS@@Rh@@ei@@Re@@el@@Rd@@N~
+Description  @@eA @@RF@@el@@Ra@@em@@Re@@e-@@RR@@ee@@Rs@@ei@@Rs@@et@@Ra@@en@@Rt @@eS@@Rh@@ei@@Re@@el@@Rd@@R awaits here.@@N~
+Vnum         1020
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     9
+Weight       0
+Heat         2
+Level        40
+Values       4 8 10 -16 0 0 40 0 8 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra boots~
+ShortDescr   @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Description  @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Vnum         1120
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 6 0 90 -11 -19 -68 1 12 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   @@cAn@@G Aci@@rdpr@@Goo@@rf@@W Ca@@dpe@@N~
+Description  @@cAn@@G Aci@@rdpr@@Goo@@rf@@W Ca@@dpe@@N has been thrown down.~
+Vnum         1082
+ExtraFlags   0
+WearFlags    8454144
+WearLoc      16
+ItemType     9
+Weight       1
+Heat         2
+Level        90
+Values       3 4 1 -76 0 90 39 -60 53 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blastproof Suit~
+ShortDescr   @@WA @@yBl@@east@@Rproo@@ef S@@yui@@Wt@@N~
+Description  @@WA @@yBl@@east@@Rproo@@ef S@@yui@@Wt@@g is here for the taking.@@N~
+Vnum         2
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       15
+Heat         0
+Level        80
+Values       2 5 19 -22 80 0 -25 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Safehouse installation upgrade~
+ShortDescr   @@WA @@gS@@da@@gf@@We@@gh@@do@@gu@@Ws@@ge @@WU@@gp@@dg@@gr@@Wa@@gd@@de@@N~
+Description  @@WA @@gS@@da@@gf@@We@@gh@@do@@gu@@Ws@@ge @@WU@@gp@@dg@@gr@@Wa@@gd@@de@@N~
+Vnum         995
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     11
+Weight       1
+Heat         0
+Level        50
+Values       32 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

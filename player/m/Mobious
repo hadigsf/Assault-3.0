@@ -1,0 +1,212 @@
+#PLAYER
+Revision     52
+Name         Mobious~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        9
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       13114
+PlayedTot    13114
+Note         0
+Room         3
+Location         36 486 1
+Hp   		500 500
+Act          0
+Config       262503
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     MoTQe.yGf3S.k~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         70.126.147.52~
+Failures     0
+LastLogin    Thu May  8 22:02:43 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       128
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 0
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Free TShirt Shirt T-Shirt~
+ShortDescr   @@WAn @@eASSAULT@@W T-Shirt@@N~
+Description  @@WAn @@eASSAULT@@W T-Shirt@@N~
+Vnum         32658
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      -1
+ItemType     9
+Weight       0
+Heat         0
+Level        1
+Values       -1 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant log~
+Description  @@N~
+Vnum         32604
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       7 70 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant rock~
+Description  @@N~
+Vnum         32603
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       5 50 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant chunk of silver~
+Description  @@N~
+Vnum         32602
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       4 10 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant chunk of gold~
+Description  @@N~
+Vnum         32601
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       3 10 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ^giantchunk~
+ShortDescr   a giant chunk of iron~
+Description  @@N~
+Vnum         32600
+ExtraFlags   4194434
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       0 106 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       4 25 0 0 0 0 0 0 25 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

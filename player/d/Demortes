@@ -1,0 +1,127 @@
+#PLAYER
+Revision     52
+Name         Demortes~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        90
+Incog		 0
+Trust        90
+Wizbit       1
+Played       380399
+PlayedTot    517264
+Note         0
+Room         3
+Location         31 976 1
+Hp   		500 500
+Act          20480
+Config       4456807
+Position     7
+Questpoints  233
+Pkills	   2
+Bkills	   0
+TPkills	   6
+TBkills	   0
+Deaths	   9
+BLost	   0
+PBHits	   5
+PBDeaths	   1
+NukemWins	   0
+Medals	   137
+GPoints	   0
+Implants     0
+Password     De64dIJPNHsf6~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         is not so happy~
+Ranking      MINE!~
+Whoname      Woff~
+Monitor	   5329
+Host         127.0.0.1~
+Failures     0
+LastLogin    Wed Jan 21 21:55:16 2009
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   15
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       1 5
+Spec         2
+Setexit      0
+Experience   330
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   3   1   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Master Blueprints~
+ShortDescr   level 2 Master Blueprints~
+Description  Level 2 Master Blueprints are here.~
+Vnum         32661
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        2
+Values       0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Master Blueprints~
+ShortDescr   level 3 Master Blueprints~
+Description  Level 3 Master Blueprints are here.~
+Vnum         32660
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        3
+Values       0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

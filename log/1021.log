@@ -1,0 +1,52 @@
+Sat Jan 17 19:10:25 2009 :: Reading Area Files...
+Sat Jan 17 19:10:25 2009 :: Loading web data.
+Sat Jan 17 19:10:25 2009 :: Loading Building Table....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/building_table.txt
+
+Sat Jan 17 19:10:25 2009 :: Buildings: 138
+Sat Jan 17 19:10:25 2009 :: Loading Wilderness....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/map.txt
+
+Sat Jan 17 19:10:25 2009 :: Creating Special Maps....
+Sat Jan 17 19:10:25 2009 :: Loading Buildings....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/buildings.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading Objects....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/objects.lst
+
+Sat Jan 17 19:10:25 2009 :: [*****] FILE: ../data/objects.lst LINE: 21460
+Sat Jan 17 19:10:25 2009 :: [*****] BUG: SSM: The shared string heap is full!
+Sat Jan 17 19:10:25 2009 :: SSM: Attempting to optimize shared string heap.
+Sat Jan 17 19:10:25 2009 :: SSM: defrag_heap: made 1 block merges.
+Sat Jan 17 19:10:25 2009 :: Loading High Scores....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/scores.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading ../data/ranks.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading alliances....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/alliances.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading changes.
+Sat Jan 17 19:10:25 2009 :: Loading logs.
+Sat Jan 17 19:10:25 2009 :: Creating item load list....
+Sat Jan 17 19:10:25 2009 :: Loading Disabled Commands...
+Sat Jan 17 19:10:25 2009 :: Loading Multiplay list....
+Sat Jan 17 19:10:25 2009 :: Loading ../data/multiplay.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading quotes.
+Sat Jan 17 19:10:25 2009 :: Loading ../data/quotes.txt
+
+Sat Jan 17 19:10:25 2009 :: Loading banned sites.
+Sat Jan 17 19:10:25 2009 :: Loading ../data/bans.lst
+
+Sat Jan 17 19:10:25 2009 :: Done Loading ../data/bans.lst
+Sat Jan 17 19:10:25 2009 :: Loading Relevel Info.
+Sat Jan 17 19:10:25 2009 :: Loading imm brands.
+Sat Jan 17 19:10:25 2009 :: Loading System Data.
+Sat Jan 17 19:10:25 2009 :: Loading vehicles...
+Sat Jan 17 19:10:25 2009 :: Loading ../data/vehicles.txt
+
+Sat Jan 17 19:10:25 2009 :: ACK! MUD is ready on port 6660.
+Used 4 user CPU seconds.
+Sat Jan 17 19:10:52 2009 :: Loading ../data/objects.bak
+

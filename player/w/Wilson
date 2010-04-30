@@ -1,0 +1,416 @@
+#PLAYER
+Revision     52
+Name         Wilson~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        2
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       12515
+PlayedTot    136788
+Note         0
+Room         3
+Location         316 795 1
+Hp   		450 500
+Act          0
+Config       2427239
+Position     7
+Questpoints  3898
+Pkills	   0
+Bkills	   0
+TPkills	   4
+TBkills	   27
+Deaths	   3
+BLost	   22
+PBHits	   1
+PBDeaths	   5
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Wi90TorDmXo7Q~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         72.170.172.228~
+Failures     0
+LastLogin    Sat May  3 11:26:09 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   2
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   9   0   38   0   0   3   0   32   4   3   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         finger gloves~
+ShortDescr   @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N~
+Description  @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N are laying on the ground.~
+Vnum         1117
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        90
+Values       1 0 45 90 78 65 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         rubber sleeves~
+ShortDescr   @@lRub@@Rber@@y Sle@@bev@@yes@@N~
+Description  @@lRub@@Rber@@y Sle@@bev@@yes@@N are laying on the ground.~
+Vnum         1080
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       3 0 40 40 40 80 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring~
+ShortDescr   @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N~
+Description  @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N has been dropped here.~
+Vnum         1081
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      13
+ItemType     9
+Weight       1
+Heat         1
+Level        85
+Values       3 0 42 42 42 85 42 42 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       25 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic necklace~
+ShortDescr   @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N~
+Description  @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N is hanging on the wall.~
+Vnum         1079
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -1
+Level        70
+Values       3 0 35 35 35 70 35 35 35 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof shoulderguards~
+ShortDescr   @@RF@@eir@@Rep@@ero@@Rof@@W Shou@@dlder@@gGua@@drd@@Ws@@N~
+Description  @@RF@@eir@@Rep@@ero@@Rof@@W Shou@@dlder@@gGua@@drd@@Ws@@N are laying in the dirt.~
+Vnum         1108
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         -2
+Level        80
+Values       4 0 40 40 40 40 80 56 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof cape~
+ShortDescr   @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N~
+Description  @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N has been left here.~
+Vnum         1104
+ExtraFlags   0
+WearFlags    8454144
+WearLoc      16
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 4 45 90 45 45 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra boots~
+ShortDescr   @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Description  @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Vnum         1120
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 0 45 90 45 45 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Jacket~
+ShortDescr   @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N~
+Description  @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N is laying on the ground.~
+Vnum         1113
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         2
+Level        80
+Values       1 2 49 80 40 40 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof belt~
+ShortDescr   a @@aLas@@cerp@@eroo@@Rf@@l Be@@Blt@@N~
+Description  A @@aLas@@cerp@@eroo@@Rf@@l Be@@Blt@@N is laying in the dirt.~
+Vnum         1133
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       1
+Heat         2
+Level        85
+Values       5 0 42 42 42 42 42 85 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof bracer~
+ShortDescr   a @@eFi@@Rrep@@eroo@@Rf@@l Br@@Bac@@ler@@N~
+Description  A @@eFi@@Rrep@@eroo@@Rf@@l Br@@Bac@@ler@@N has been left here.~
+Vnum         1110
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       1
+Heat         -1
+Level        95
+Values       4 0 47 47 47 47 95 50 47 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nightvision Goggles~
+ShortDescr   @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Description  @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Vnum         1041
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 40 80 40 40 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Fireproof Leggings~
+ShortDescr   @@eF@@yi@@er@@ye@@ep@@yr@@eo@@yo@@ef @@yL@@ee@@yg@@eg@@yi@@en@@yg@@es@@N~
+Description  @@0Some @@eF@@yi@@er@@ye@@ep@@yr@@eo@@yo@@ef @@yL@@ee@@yg@@eg@@yi@@en@@yg@@es@@0 are here.~
+Vnum         1100
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       1
+Heat         -2
+Level        80
+Values       4 0 40 40 40 40 80 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 40 80 40 40 40 40 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      4
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 40 80 40 40 40 40 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         necklace silver bullet hook~
+ShortDescr   @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N~
+Description  @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N has been dropped here.~
+Vnum         1114
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -2
+Level        85
+Values       1 1 42 85 42 42 42 42 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Spectra Helmet~
+ShortDescr   a @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N~
+Description  A @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N has been left on the ground.~
+Vnum         1040
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        99
+Values       1 0 49 99 49 49 49 49 49 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring silver bullet~
+ShortDescr   @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Description  @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Vnum         1118
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         -1
+Level        75
+Values       1 0 37 75 37 37 37 37 37 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Bio Wrist Cover~
+ShortDescr   @@rB@@Gi@@Wo @@GW@@rr@@Wi@@rs@@Gt @@WC@@ro@@Wv@@Ge@@rr@@Gs@@N~
+Description  @@rB@@Gi@@Wo @@GW@@rr@@Wi@@rs@@Gt @@WC@@ro@@Wv@@Ge@@rr@@Gs@@g were placed here.@@N~
+Vnum         1038
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       1
+Heat         1
+Level        61
+Values       3 0 30 30 30 61 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

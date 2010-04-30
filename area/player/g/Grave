@@ -1,0 +1,245 @@
+#PLAYER
+Revision     52
+Name         Grave~
+Prompt       @@d[@@w(@@e%h@@d/@@R%H@@w HP@@w) @@w(@@l%T@@d/@@B%t @@wTMR@@w) @@w(@@y%Q @@wQP) @@w(@@r%x @@wTNR@@w) @@w(@@a%C @@w%s@@w)@@d]@@N~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        11
+Level        90
+Invis        90
+Incog		 0
+Trust        90
+Wizbit       1
+Played       58247
+PlayedTot    3449050
+Note         0
+Room         3
+Location         500 499 1
+Hp   		500 500
+Act          20480
+Config       4458855
+Position     7
+Questpoints  184
+Pkills	   0
+Bkills	   0
+TPkills	   52
+TBkills	   0
+Deaths	   12
+BLost	   0
+PBHits	   8
+PBDeaths	   1
+NukemWins	   2
+Medals	   17
+GPoints	   0
+Implants     0
+Password     GrQIiT2HBK9U2~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        @@N- AU: 0, E7: 1, PG: 2, CB: 2, AD: 0, fg: 1 ~
+Whoname      Woff~
+Monitor	   30207
+Host         141.151.86.28~
+Failures     0
+LastLogin    Fri Dec 28 06:49:03 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     5
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 9
+Spec         1
+Setexit      2
+Experience   498280
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   94   0   0   0   0   0   0   0   1   8   116   0   0   -1
+Alias    b~  build~
+Alias    dem~  demolish~
+Alias    lo~  map~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         beer can~
+ShortDescr   a can of beer~
+Description  A can of beer rolls around here.~
+Vnum         1500
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       5
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         beer can~
+ShortDescr   a can of beer~
+Description  A can of beer rolls around here.~
+Vnum         1500
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       5
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         beer can~
+ShortDescr   a can of beer~
+Description  A can of beer rolls around here.~
+Vnum         1500
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       5
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         cigar cuban~
+ShortDescr   a cuban cigar~
+Description  A huge cuban cigar lies on the floor! What a waste!~
+Vnum         1501
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       1
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   130
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       28 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         White Dust~
+ShortDescr   @@gSome Useless White Dust@@N~
+Description  @@gSome Useless White Dust@@N~
+Vnum         511
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     9
+Weight       1
+Heat         1
+Level        1
+Values       1 500 0 1 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         White Powder~
+ShortDescr   @@WWhite Powder@@N~
+Description  @@gA bag of @@WWhite Powder@@g is here.@@N~
+Vnum         985
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     17
+Weight       1
+Heat         0
+Level        1
+Values       5 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

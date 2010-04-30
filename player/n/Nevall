@@ -1,0 +1,365 @@
+#PLAYER
+Revision     52
+Name         Nevall~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       3047
+PlayedTot    3047
+Note         0
+Room         3
+Location         502 918 1
+Hp   		467 500
+Act          0
+Config       262503
+Position     7
+Questpoints  303
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     NeJpyIlVRaO9.~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         68.52.232.6~
+Failures     0
+LastLogin    Mon Feb 11 22:57:45 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       128
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 0
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shotgun shells~
+ShortDescr   some Shotgun Shells~
+Description  Some shotgun shells were left in a small box.~
+Vnum         1143
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        10
+Values       19 6 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         RMB-93 RMB93 shotgun gun~
+ShortDescr   @@dan RMB-93 pump-action shotgun@@N~
+Description  @@dAn RMB-93 pump-action shotgun@@N is upside-down.~
+Vnum         1034
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       2
+Heat         0
+Level        10
+Values       6 6 19 0 0 0 0 14 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Acidproof Faceguard~
+ShortDescr   @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Description  @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Vnum         1025
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        20
+Values       3 0 0 0 -8 20 -5 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Gloves~
+ShortDescr   @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs@@N~
+Description  @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs, full of bullet holes, are here.@@N~
+Vnum         1036
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        23
+Values       1 0 -3 23 -2 5 -4 0 -11 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots acidproof~
+ShortDescr   @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@N~
+Description  @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@g await for the taking.@@N~
+Vnum         1018
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       0
+Heat         -1
+Level        30
+Values       3 0 0 0 -5 30 -10 5 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         sleeves metal~
+ShortDescr   @@a Me@@cta@@al@@y Slee@@bves@@N~
+Description  @@a Me@@cta@@al@@y Slee@@bves@@N has been left on the ground.~
+Vnum         1057
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       5
+Heat         1
+Level        25
+Values       1 0 -10 25 -9 0 10 -10 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Shoulderpads~
+ShortDescr   @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@N~
+Description  @@gA pair of @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@g are here.@@N~
+Vnum         1060
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         2
+Level        24
+Values       1 0 6 24 0 0 0 -4 -6 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Vest Bullet Proof Bulletproof~
+ShortDescr   @@dA Bullet-Proof Vest@@N~
+Description  @@dA Bullet-Proof Vest hangs here.@@N~
+Vnum         1016
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         1
+Level        20
+Values       1 0 9 20 3 -5 -2 0 -5 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

@@ -1,0 +1,50 @@
+Mon Dec 15 00:45:23 2008 :: Reading Area Files...
+Mon Dec 15 00:45:23 2008 :: Loading web data.
+Mon Dec 15 00:45:23 2008 :: Loading Building Table....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/building_table.txt
+
+Mon Dec 15 00:45:23 2008 :: Buildings: 138
+Mon Dec 15 00:45:23 2008 :: Loading Wilderness....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/map.txt
+
+Mon Dec 15 00:45:23 2008 :: Creating Special Maps....
+Mon Dec 15 00:45:23 2008 :: Loading Buildings....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/buildings.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading Objects....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/objects.lst
+
+Mon Dec 15 00:45:23 2008 :: Loading High Scores....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/scores.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading ../data/ranks.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading alliances....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/alliances.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading changes.
+Mon Dec 15 00:45:23 2008 :: Loading logs.
+Mon Dec 15 00:45:23 2008 :: Creating item load list....
+Mon Dec 15 00:45:23 2008 :: Loading Disabled Commands...
+Mon Dec 15 00:45:23 2008 :: Loading Multiplay list....
+Mon Dec 15 00:45:23 2008 :: Loading ../data/multiplay.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading quotes.
+Mon Dec 15 00:45:23 2008 :: Loading ../data/quotes.txt
+
+Mon Dec 15 00:45:23 2008 :: Loading banned sites.
+Mon Dec 15 00:45:23 2008 :: Loading ../data/bans.lst
+
+Mon Dec 15 00:45:23 2008 :: Done Loading ../data/bans.lst
+Mon Dec 15 00:45:23 2008 :: Loading Relevel Info.
+Mon Dec 15 00:45:23 2008 :: Loading imm brands.
+Mon Dec 15 00:45:23 2008 :: Loading System Data.
+Mon Dec 15 00:45:23 2008 :: Loading vehicles...
+Mon Dec 15 00:45:23 2008 :: Loading ../data/vehicles.txt
+
+Mon Dec 15 00:45:23 2008 :: ACK! MUD is ready on port 6660.
+Used 1 user CPU seconds.
+Mon Dec 15 00:45:31 2008 :: Sock.sinaddr:  127.0.0.1 (48785)
+Mon Dec 15 00:45:34 2008 :: Site Name: 127.0.0.1.
+Mon Dec 15 00:45:34 2008 :: Demortes connected from 127.0.0.1 ( last login was from 67.61.29.31 ) !
+Mon Dec 15 00:45:34 2008 :: Demortes logged on from IP 127.0.0.1

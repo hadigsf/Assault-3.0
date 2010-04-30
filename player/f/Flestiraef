@@ -1,0 +1,127 @@
+#PLAYER
+Revision     52
+Name         Flestiraef~
+Prompt       (@@e HEALTH:  %h@@n/@@e%H @@N) (@@y%C@@N) (%s) (@@p@@f%T/%t@@N) (@@l%q@@N) (@@W%Q@@N/@@r%d@@N/@@b%x@@N) (@@dMedal: %d@@N)~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       145851
+PlayedTot    519800
+Note         0
+Room         3
+Location         996 3 1
+Hp   		500 500
+Act          0
+Config       12847462
+Position     7
+Questpoints  8
+Pkills	   0
+Bkills	   0
+TPkills	   13
+TBkills	   77
+Deaths	   48
+BLost	   450
+PBHits	   12
+PBDeaths	   15
+NukemWins	   0
+Medals	   2
+GPoints	   5
+Implants     0
+Password     FlaLHvbaJXYcY~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         is scared.~
+Ranking      (BUILDING)~
+Whoname      W@@eT@@Rhe @@aG@@cuard~
+Monitor	   0
+Host         76.5.163.29~
+Failures     0
+LastLogin    Fri Jan  9 15:42:06 2009
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     0
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 5
+Spec         2
+Setexit      0
+Experience   258
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   100   17   0   0   0   0   0   0   3   2   0   0   0   -1
+Alias    g~  get all~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#END

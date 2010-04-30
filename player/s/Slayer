@@ -1,0 +1,756 @@
+#PLAYER
+Revision     52
+Name         Slayer~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        9
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       2414
+PlayedTot    91491
+Note         0
+Room         3
+Location         3 739 1
+Hp   		500 500
+Act          0
+Config       262503
+Position     7
+Questpoints  10
+Pkills	   0
+Bkills	   0
+TPkills	   2
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   1
+PBDeaths	   3
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Sl.Q7WXoLNZ0A~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         216.37.227.39~
+Failures     0
+LastLogin    Sat Mar  8 17:47:45 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   3
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   -1
+Alias    ,~  shoot n~
+Alias    .~  shoot s~
+Alias    /~  shoot e~
+Alias    ;~  shoot w~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Scan Disk~
+ShortDescr   @@dA version @@W3.1 @@yScan@@d disk@@N~
+Description  @@dA version @@W3.1 @@yScan@@d disk was left here.@@N~
+Vnum         1141
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       3 31 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       6 17 0 0 0 0 0 0 113 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Virus Disk~
+ShortDescr   @@dA version @@W3.7 @@rV@@Gi@@rr@@Gu@@rs@@d disk@@N~
+Description  @@dA version @@W3.7 @@rV@@Gi@@rr@@Gu@@rs@@d disk was left here.@@N~
+Vnum         1138
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       0 37 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spoof disk~
+ShortDescr   @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Description  @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Vnum         1145
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         1
+Level        1
+Values       4 40 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       0 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         PSG-1 sniper rifle~
+ShortDescr   @@Ga @@dP@@rS@@GG@@c-@@d1 @@Gs@@cn@@di@@rp@@Ge@@cr @@dr@@Gi@@rf@@Gl@@ce@@N~
+Description  @@GA @@dP@@rS@@GG@@c-@@d1 @@Gs@@cn@@di@@rp@@Ge@@cr @@dr@@Gi@@rf@@Gl@@ce@@N rests on its tripod.~
+Vnum         1122
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       3
+Heat         0
+Level        75
+Values       0 5 9 0 5 0 5 -75 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Hover~
+ShortDescr   @@gA Vehicle @@cHover@@N~
+Description  @@gA Vehicle @@cHover@@g floats here.@@N~
+Vnum         903
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       10
+Heat         1
+Level        12
+Values       0 -50 7 9999 0 0 3 0 0 1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Fuel Tank~
+ShortDescr   @@dA @@bFuel @@dTank@@N~
+Description  @@dA @@bFuel @@dTank@@N~
+Vnum         930
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       1
+Heat         1
+Level        1
+Values       3 0 0 500 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Hover~
+ShortDescr   @@gA Vehicle @@cHover@@N~
+Description  @@gA Vehicle @@cHover@@g floats here.@@N~
+Vnum         903
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       10
+Heat         1
+Level        12
+Values       0 -50 7 9999 0 0 3 0 0 1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Hover~
+ShortDescr   @@gA Vehicle @@cHover@@N~
+Description  @@gA Vehicle @@cHover@@g floats here.@@N~
+Vnum         903
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       10
+Heat         1
+Level        12
+Values       0 -50 7 9999 0 0 3 0 0 1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       50
+Heat         0
+Level        1
+Values       1 3051 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 3117 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Secure Warehouse 4th~
+ShortDescr   Blueprints for 4th level Secure warehouse~
+Description  Blueprints for 4th level Secure warehouse~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       79 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Weather Machine 4th~
+ShortDescr   Blueprints for 4th level Weather machine~
+Description  Blueprints for 4th level Weather machine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       119 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 8726 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Marketplace 4th~
+ShortDescr   Blueprints for 4th level Marketplace~
+Description  Blueprints for 4th level Marketplace~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         sonic boom rocket launcher~
+ShortDescr   @@Ga @@W"@@ySonic Boom@@W" @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N~
+Description  @@Ga @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N, nicknamed @@W"The @@ySonic Boom@@W," @@Nis here.~
+Vnum         1125
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       10
+Heat         0
+Level        50
+Values       0 1 3 32 3 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         sonic boom rocket launcher~
+ShortDescr   @@Ga @@W"@@ySonic Boom@@W" @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N~
+Description  @@Ga @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N, nicknamed @@W"The @@ySonic Boom@@W," @@Nis here.~
+Vnum         1125
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       10
+Heat         0
+Level        50
+Values       0 1 3 32 3 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Marketplace 4th~
+ShortDescr   Blueprints for 4th level Marketplace~
+Description  Blueprints for 4th level Marketplace~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       50 0 0 0 0 0 0 6 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Small Turret 4th~
+ShortDescr   Blueprints for 4th level Small turret~
+Description  Blueprints for 4th level Small turret~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Small Turret 4th~
+ShortDescr   Blueprints for 4th level Small turret~
+Description  Blueprints for 4th level Small turret~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Fire Turret 4th~
+ShortDescr   Blueprints for 4th level Fire turret~
+Description  Blueprints for 4th level Fire turret~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       32 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Fire Turret 4th~
+ShortDescr   Blueprints for 4th level Fire turret~
+Description  Blueprints for 4th level Fire turret~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        4
+Values       32 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Ammo Bonus~
+ShortDescr   @@dAn @@WAmmo @@dBonus@@N~
+Description  @@dAn @@WAmmo @@dBonus@@N~
+Vnum         931
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       1
+Heat         1
+Level        1
+Values       3 0 0 0 100 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Snow Digger 2nd~
+ShortDescr   Blueprints for 2nd level Snow digger~
+Description  Blueprints for 2nd level Snow digger~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        2
+Values       75 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 9797 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       50
+Heat         0
+Level        1
+Values       1 9374 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       1
+Heat         0
+Level        1
+Values       6 1759 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 3320 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 1740 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Colt Defender gun~
+ShortDescr   a @@dC@@Wo@@dl@@Wt @@dD@@We@@df@@We@@dn@@Wd@@de@@Wr @@dII@@N~
+Description  A @@dC@@Wo@@dl@@Wt @@dD@@We@@df@@We@@dn@@Wd@@de@@Wr @@dII@@N pistol has nobody to defend.~
+Vnum         1003
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       1
+Heat         0
+Level        30
+Values       0 11 2 0 1 0 0 20 3 0 -5 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Colt Defender gun~
+ShortDescr   a @@dC@@Wo@@dl@@Wt @@dD@@We@@df@@We@@dn@@Wd@@de@@Wr @@dII@@N~
+Description  A @@dC@@Wo@@dl@@Wt @@dD@@We@@df@@We@@dn@@Wd@@de@@Wr @@dII@@N pistol has nobody to defend.~
+Vnum         1003
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       1
+Heat         0
+Level        30
+Values       11 11 2 0 1 0 0 20 3 0 -5 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Desert Eagle gun~
+ShortDescr   @@Wa @@yD@@ges@@ye@@grt @@bE@@Gag@@bl@@Ge@@N~
+Description  @@Wa large @@yD@@ges@@ye@@grt @@bE@@Gag@@bl@@Ge@@W quietly sits.@@N~
+Vnum         1001
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       1
+Heat         0
+Level        30
+Values       7 7 38 0 0 0 0 24 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       3 75 0 0 0 0 0 0 75 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

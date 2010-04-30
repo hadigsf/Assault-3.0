@@ -1,0 +1,568 @@
+#PLAYER
+Revision     52
+Name         Riviat~
+Prompt       @@d[@@w(@@e%h@@d/@@R%H@@w HP@@w) @@w(@@l%T@@d/@@B%t @@wTMR@@w) @@w(@@y%Q @@wQP) @@w(@@r%x @@wTNR@@w) @@w(@@a%C @@w%s@@w)@@d]@@N~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        11
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       3050
+PlayedTot    433814
+Note         0
+Room         3
+Location         3 267 1
+Hp   		500 500
+Act          0
+Config       4458855
+Position     7
+Questpoints  25465
+Pkills	   0
+Bkills	   0
+TPkills	   60
+TBkills	   456
+Deaths	   114
+BLost	   434
+PBHits	   2
+PBDeaths	   2
+NukemWins	   0
+Medals	   3
+GPoints	   0
+Implants     0
+Password     Rim3FdMDpqdeU~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         building i guess~
+Whoname      WIM LOLCAT~
+Monitor	   0
+Host         71.180.50.233~
+Failures     0
+LastLogin    Fri Dec 28 05:18:44 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   670
+FightTimer   0
+Reimb        0
+ProfPt       0 5
+Spec         2
+Setexit      0
+Experience   4259
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   99   2   0   0   0   0   0   1   4   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         RT-20 RT20 20mm sniper rifle~
+ShortDescr   @@Ga@@dn @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N~
+Description  @@NA large @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N waits for that perfect shot.~
+Vnum         1123
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       4
+Heat         0
+Level        99
+Values       3 3 14 208 6 0 24 0 0 50 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element soil hard~
+ShortDescr   @@bSome hard soil@@N~
+Description  @@bSome hard soil@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       3 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

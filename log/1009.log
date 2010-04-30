@@ -1,0 +1,406 @@
+Wed Dec 17 23:32:03 2008 :: Reading Area Files...
+Wed Dec 17 23:32:03 2008 :: Loading web data.
+Wed Dec 17 23:32:03 2008 :: Loading Building Table....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/building_table.txt
+
+Wed Dec 17 23:32:03 2008 :: Buildings: 138
+Wed Dec 17 23:32:03 2008 :: Loading Wilderness....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/map.txt
+
+Wed Dec 17 23:32:03 2008 :: Creating Special Maps....
+Wed Dec 17 23:32:03 2008 :: Loading Buildings....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/buildings.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading Objects....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/objects.lst
+
+Wed Dec 17 23:32:03 2008 :: [*****] FILE: ../data/objects.lst LINE: 21489
+Wed Dec 17 23:32:03 2008 :: [*****] BUG: SSM: The shared string heap is full!
+Wed Dec 17 23:32:03 2008 :: SSM: Attempting to optimize shared string heap.
+Wed Dec 17 23:32:03 2008 :: SSM: defrag_heap: made 1 block merges.
+Wed Dec 17 23:32:03 2008 :: Loading High Scores....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/scores.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading ../data/ranks.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading alliances....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/alliances.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading changes.
+Wed Dec 17 23:32:03 2008 :: Loading logs.
+Wed Dec 17 23:32:03 2008 :: Creating item load list....
+Wed Dec 17 23:32:03 2008 :: Loading Disabled Commands...
+Wed Dec 17 23:32:03 2008 :: Loading Multiplay list....
+Wed Dec 17 23:32:03 2008 :: Loading ../data/multiplay.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading quotes.
+Wed Dec 17 23:32:03 2008 :: Loading ../data/quotes.txt
+
+Wed Dec 17 23:32:03 2008 :: Loading banned sites.
+Wed Dec 17 23:32:03 2008 :: Loading ../data/bans.lst
+
+Wed Dec 17 23:32:03 2008 :: Done Loading ../data/bans.lst
+Wed Dec 17 23:32:03 2008 :: Loading Relevel Info.
+Wed Dec 17 23:32:03 2008 :: Loading imm brands.
+Wed Dec 17 23:32:03 2008 :: Loading System Data.
+Wed Dec 17 23:32:03 2008 :: Loading vehicles...
+Wed Dec 17 23:32:03 2008 :: Loading ../data/vehicles.txt
+
+Wed Dec 17 23:32:03 2008 :: ACK! MUD is ready on port 6660.
+Used 4 user CPU seconds.
+Wed Dec 17 23:32:09 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 00:04:47 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 00:37:26 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 01:10:05 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 01:42:49 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 02:15:34 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 02:48:21 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 03:21:09 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 03:53:59 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 04:26:53 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 04:59:45 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 05:32:42 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 06:05:41 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 06:38:47 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 07:11:48 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 07:44:53 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 08:18:00 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 08:51:07 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 09:24:17 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 09:57:30 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 10:30:46 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 11:03:59 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 11:37:15 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 12:10:36 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 12:43:58 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 13:17:20 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 13:39:47 2008 :: Sock.sinaddr:  192.168.1.1 (1424)
+Thu Dec 18 13:39:54 2008 :: Site Name: 192.168.1.1.
+Thu Dec 18 13:39:54 2008 :: Demortes logged on from IP 192.168.1.1
+Thu Dec 18 13:39:59 2008 :: Log Demortes: oload board
+Thu Dec 18 13:40:49 2008 :: Demortes has left Assault: High Tech War!
+Thu Dec 18 13:50:45 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 14:24:14 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 14:57:44 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 15:31:20 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 16:04:58 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 16:38:37 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 17:12:23 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 17:25:05 2008 :: Sock.sinaddr:  71.218.39.55 (1768)
+Thu Dec 18 17:25:17 2008 :: Site Name: 71.218.39.55.
+Thu Dec 18 17:25:17 2008 :: Fydan logged on from IP 71.218.39.55
+Thu Dec 18 17:46:07 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 18:19:53 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 18:53:42 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 19:22:26 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 19:27:36 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 20:01:32 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 20:09:19 2008 :: Sock.sinaddr:  71.218.6.90 (1082)
+Thu Dec 18 20:12:16 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 20:12:16 2008 :: Fydan connected from 71.218.6.90 ( last login was from 71.218.39.55 ) !
+Thu Dec 18 20:12:16 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 20:26:12 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 20:29:11 2008 :: Sock.sinaddr:  71.218.6.90 (1129)
+Thu Dec 18 20:30:01 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 20:30:01 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 20:35:33 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 20:52:16 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 20:52:41 2008 :: Sock.sinaddr:  71.218.6.90 (1147)
+Thu Dec 18 20:53:02 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 20:53:02 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 21:00:56 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 21:06:17 2008 :: Sock.sinaddr:  71.218.6.90 (1155)
+Thu Dec 18 21:07:25 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 21:07:25 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 21:09:36 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 21:10:52 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 21:17:21 2008 :: Sock.sinaddr:  71.218.6.90 (1166)
+Thu Dec 18 21:17:28 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 21:17:28 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 21:28:31 2008 :: Sock.sinaddr:  71.218.6.90 (1172)
+Thu Dec 18 21:28:43 2008 :: Closing link to Fydan.
+Thu Dec 18 21:28:49 2008 :: Sock.sinaddr:  71.218.6.90 (1173)
+Thu Dec 18 21:28:53 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 21:28:53 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 21:43:00 2008 :: Sock.sinaddr:  71.218.6.90 (1181)
+Thu Dec 18 21:43:09 2008 :: Site Name: 71.218.6.90.
+Thu Dec 18 21:43:09 2008 :: Fydan logged on from IP 71.218.6.90
+Thu Dec 18 21:43:40 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 22:10:05 2008 :: Fydan has left Assault: High Tech War!
+Thu Dec 18 22:17:47 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 22:51:59 2008 :: Loading ../data/objects.bak
+
+Thu Dec 18 23:06:46 2008 :: Sock.sinaddr:  63.173.110.58 (51964)
+Thu Dec 18 23:06:48 2008 :: Site Name: 63.173.110.58.
+Thu Dec 18 23:06:48 2008 :: Flestiraef logged on from IP 63.173.110.58
+Thu Dec 18 23:08:10 2008 :: Flestiraef has left Assault: High Tech War!
+Thu Dec 18 23:08:13 2008 :: Sock.sinaddr:  63.173.110.58 (51970)
+Thu Dec 18 23:08:15 2008 :: Site Name: 63.173.110.58.
+Thu Dec 18 23:08:15 2008 :: Flestiraef logged on from IP 63.173.110.58
+Write_to_descriptor: Resource temporarily unavailable
+Thu Dec 18 23:08:36 2008 :: Closing link to Flestiraef.
+Thu Dec 18 23:08:41 2008 :: Sock.sinaddr:  63.173.110.58 (51972)
+Thu Dec 18 23:08:42 2008 :: Flestiraef@63.173.110.58 reconnected.
+Thu Dec 18 23:17:42 2008 :: Flestiraef has left Assault: High Tech War!
+Thu Dec 18 23:26:16 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 00:00:36 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 00:34:58 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 01:09:22 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 01:43:49 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 02:18:20 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 02:52:53 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 03:27:29 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 04:02:07 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 04:36:48 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 05:11:36 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 05:46:22 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 06:21:13 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 06:56:06 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 07:31:04 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 08:06:01 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 08:41:01 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 09:16:05 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 09:51:14 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 10:26:25 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 11:01:40 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 11:36:57 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 12:12:15 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 12:47:37 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 13:23:02 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 13:39:50 2008 :: Sock.sinaddr:  63.173.110.58 (49260)
+Fri Dec 19 13:39:52 2008 :: Site Name: 63.173.110.58.
+Fri Dec 19 13:39:52 2008 :: Flestiraef logged on from IP 63.173.110.58
+Fri Dec 19 13:58:32 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 14:04:04 2008 :: Flestiraef cleaned a warehouse.
+
+Read_from_descriptor: Connection reset by peer
+Fri Dec 19 14:04:37 2008 :: Closing link to Flestiraef.
+Fri Dec 19 14:04:47 2008 :: Sock.sinaddr:  63.173.110.58 (49526)
+Fri Dec 19 14:04:48 2008 :: Flestiraef@63.173.110.58 reconnected.
+Fri Dec 19 14:34:01 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 15:09:35 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 15:45:09 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 16:20:52 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 16:56:47 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 17:32:30 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 18:08:18 2008 :: Loading ../data/objects.bak
+
+Read_from_descriptor: Connection reset by peer
+Fri Dec 19 18:35:24 2008 :: Closing link to Flestiraef.
+Fri Dec 19 18:44:06 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 19:19:57 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 19:55:55 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 20:31:55 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 21:07:56 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 21:44:02 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 22:11:55 2008 :: Sock.sinaddr:  71.218.6.90 (4880)
+Fri Dec 19 22:12:26 2008 :: Site Name: 71.218.6.90.
+Fri Dec 19 22:12:26 2008 :: Fydan logged on from IP 71.218.6.90
+Fri Dec 19 22:20:09 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 22:21:05 2008 :: Sock.sinaddr:  71.218.6.90 (4885)
+Fri Dec 19 22:21:14 2008 :: Closing link to Fydan.
+Fri Dec 19 22:21:18 2008 :: Sock.sinaddr:  71.218.6.90 (4886)
+Fri Dec 19 22:21:24 2008 :: Site Name: 71.218.6.90.
+Fri Dec 19 22:21:24 2008 :: Fydan logged on from IP 71.218.6.90
+Fri Dec 19 22:27:33 2008 :: Fydan has left Assault: High Tech War!
+Fri Dec 19 22:56:18 2008 :: Loading ../data/objects.bak
+
+Fri Dec 19 23:32:35 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 00:08:55 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 00:45:14 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 01:21:38 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 01:58:00 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 02:34:31 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 03:11:01 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 03:47:35 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 04:24:10 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 05:00:52 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 05:37:31 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 06:14:18 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 06:51:17 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 07:28:16 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 08:05:09 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 08:42:09 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 09:19:05 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 09:56:16 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 10:33:24 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 10:55:27 2008 :: Sock.sinaddr:  24.117.106.222 (55428)
+Sat Dec 20 10:55:41 2008 :: Site Name: 24.117.106.222.
+Sat Dec 20 10:55:41 2008 :: Demortes connected from 24.117.106.222 ( last login was from 192.168.1.1 ) !
+Sat Dec 20 10:55:41 2008 :: Demortes logged on from IP 24.117.106.222
+Sat Dec 20 10:56:04 2008 :: Log Demortes: oload board
+Sat Dec 20 10:56:45 2008 :: Demortes has left Assault: High Tech War!
+Sat Dec 20 11:10:36 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 11:47:44 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 12:25:09 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 13:02:33 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 13:43:33 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 14:21:34 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 14:59:14 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 15:33:31 2008 :: Sock.sinaddr:  71.218.6.90 (1088)
+Sat Dec 20 15:33:39 2008 :: Site Name: 71.218.6.90.
+Sat Dec 20 15:33:39 2008 :: Fydan logged on from IP 71.218.6.90
+Sat Dec 20 15:36:47 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 16:14:36 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 16:15:12 2008 :: Fydan has left Assault: High Tech War!
+Sat Dec 20 16:52:15 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 17:30:38 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 18:08:21 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 18:46:25 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 19:24:14 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 20:02:46 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 20:40:44 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 21:20:28 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 21:58:36 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 22:37:40 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 23:15:55 2008 :: Loading ../data/objects.bak
+
+Sat Dec 20 23:54:40 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 00:35:47 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 01:17:27 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 01:43:59 2008 :: Sock.sinaddr:  71.218.6.90 (1079)
+Sun Dec 21 01:46:25 2008 :: Site Name: 71.218.6.90.
+Sun Dec 21 01:46:25 2008 :: Fydan logged on from IP 71.218.6.90
+Sun Dec 21 01:46:45 2008 :: Fydan has left Assault: High Tech War!
+Sun Dec 21 01:56:18 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 02:57:31 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 04:09:03 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 06:16:51 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 09:15:20 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 12:50:49 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 17:45:49 2008 :: Loading ../data/objects.bak
+
+Sun Dec 21 23:36:55 2008 :: Loading ../data/objects.bak
+
+Mon Dec 22 06:29:46 2008 :: Loading ../data/objects.bak
+
+Mon Dec 22 15:45:25 2008 :: Loading ../data/objects.bak
+

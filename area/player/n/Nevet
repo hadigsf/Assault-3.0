@@ -1,0 +1,704 @@
+#PLAYER
+Revision     52
+Name         Nevet~
+Prompt       @@c[%q] @@e[@@r%h@@G/@@r%H@@Ghp @@r%T@@Gft @@y%Q@@Gqp@@e] @@cV: @@a%v@@c/@@a%V@@chp @@a%f@@c/@@a%F@@cmv @@a%m@@c/@@a%M@@cam (%C)@@N ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        15
+Level        0
+Invis        87
+Incog		 87
+Trust        87
+Wizbit       1
+Played       185841
+PlayedTot    2679302
+Note         0
+Room         3
+Location         276 995 1
+Hp   		30000 30000
+Act          1073762304
+Config       138676583
+Position     7
+Questpoints  5071
+Pkills	   0
+Bkills	   0
+TPkills	   16
+TBkills	   0
+Deaths	   9
+BLost	   0
+PBHits	   30
+PBDeaths	   25
+NukemWins	   0
+Medals	   20
+GPoints	   0
+Implants     0
+Password     Nee.ORwD5PMk2~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         Excelsior per Debere-Excellence through Endeavour~
+Whoname      Woff~
+Monitor	   17649
+Host         74.210.29.16~
+Failures     0
+LastLogin    Wed Dec 26 15:08:54 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        30000
+Pagelen      50
+Pflags       1
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     5
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 9
+Spec         2
+Setexit      -1
+Experience   4440
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   133   0   185   0   3   6   0   22   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Virus Disk~
+ShortDescr   @@dA version @@W4.3 @@rV@@Gi@@rr@@Gu@@rs@@d disk@@N~
+Description  @@dA version @@W4.3 @@rV@@Gi@@rr@@Gu@@rs@@d disk was left here.@@N~
+Vnum         1138
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       0 43 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       5 62 1 0 12 0 0 0 75 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       5 5 34 32 5 111 -10 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Space Radar~
+ShortDescr   @@dSpa@@Wc@@de @@WRad@@dar@@N~
+Description  @@dA Spa@@Wc@@de @@WRad@@dar@@d was left here.@@N~
+Vnum         32673
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     28
+Weight       1
+Heat         1
+Level        1
+Values       0 3 10 11 12 13 14 15 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         reflector install~
+ShortDescr   @@dA @@mRe@@pfl@@We@@pct@@mor @@dU@@mpg@@pra@@Wd@@pe@@N~
+Description  @@dA @@mRe@@pfl@@We@@pct@@mor @@dU@@mpg@@pra@@Wd@@pe@@N~
+Vnum         1031
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     11
+Weight       5
+Heat         0
+Level        50
+Values       2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Stun Gun Installation~
+ShortDescr   @@ySt@@bun @@yGu@@Wn I@@yns@@bta@@yll@@Wat@@yio@@bn@@N~
+Description  @@ySt@@bun @@yGu@@Wn I@@yns@@bta@@yll@@Wat@@yio@@bn@@N~
+Vnum         989
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     11
+Weight       1
+Heat         0
+Level        1
+Values       2048 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         warp suit~
+ShortDescr   a Warp Suit~
+Description  A Warp Suit shimmers here~
+Vnum         1013
+ExtraFlags   2
+WearFlags    8650752
+WearLoc      -1
+ItemType     6
+Weight       4
+Heat         0
+Level        1
+Values       1 4 0 0 0 17 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Object Sensors Addon~
+ShortDescr   @@lO@@Bb@@cj@@aect Sens@@co@@Br@@ls@@N~
+Description  @@lO@@Bb@@cj@@aect Sens@@co@@Br@@ls@@N~
+Vnum         32666
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     28
+Weight       1
+Heat         1
+Level        50
+Values       2 0 10 11 12 13 14 15 0 11 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 19911 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 19922 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 19971 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 19953 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 19943 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 10570 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 19947 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource gold~
+ShortDescr   @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Description  @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       3 10503 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 19995 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 10553 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 19810 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         warp suit~
+ShortDescr   a Warp Suit~
+Description  A Warp Suit shimmers here~
+Vnum         1013
+ExtraFlags   2
+WearFlags    8650752
+WearLoc      -1
+ItemType     6
+Weight       4
+Heat         0
+Level        1
+Values       1 3 0 0 0 17 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Paintball gun~
+ShortDescr   @@CP@@Ca@@Ci@@Cn@@Ct@@Cb@@Ca@@Cl@@Cl @@CG@@Cu@@Cn@@N~
+Description  @@CP@@Ca@@Ci@@Cn@@Ct@@Cb@@Ca@@Cl@@Cl @@CG@@Cu@@Cn@@N~
+Vnum         32679
+ExtraFlags   16384
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       1
+Heat         0
+Level        99
+Values       987 999 16 6 2 0 20 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Lead Bomb~
+ShortDescr   a Lead Bomb~
+Description  A Lead Bomb is ready to explode!~
+Vnum         999
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        40
+Values       0 0 500 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Space Radar~
+ShortDescr   @@dSpa@@Wc@@de @@WRad@@dar@@N~
+Description  @@dA Spa@@Wc@@de @@WRad@@dar@@d was left here.@@N~
+Vnum         32673
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     28
+Weight       1
+Heat         1
+Level        1
+Values       0 3 10 11 12 13 14 15 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         RT-20 RT20 20mm sniper rifle~
+ShortDescr   @@Ga@@dn @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N~
+Description  @@NA large @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N waits for that perfect shot.~
+Vnum         1123
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       4
+Heat         0
+Level        99
+Values       1 1 14 0 5 0 15 0 0 50 0 0 0 0 0
+Quest       0 0
+End
+
+#END

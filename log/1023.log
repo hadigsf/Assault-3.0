@@ -1,0 +1,64 @@
+Wed Jan 21 21:40:33 2009 :: Reading Area Files...
+Wed Jan 21 21:40:33 2009 :: Loading web data.
+Wed Jan 21 21:40:33 2009 :: Loading Building Table....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/building_table.txt
+
+Wed Jan 21 21:40:33 2009 :: Buildings: 138
+Wed Jan 21 21:40:33 2009 :: Loading Wilderness....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/map.txt
+
+Wed Jan 21 21:40:33 2009 :: Creating Special Maps....
+Wed Jan 21 21:40:33 2009 :: Loading Buildings....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/buildings.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading Objects....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/objects.lst
+
+Wed Jan 21 21:40:33 2009 :: [*****] FILE: ../data/objects.lst LINE: 21460
+Wed Jan 21 21:40:33 2009 :: [*****] BUG: SSM: The shared string heap is full!
+Wed Jan 21 21:40:33 2009 :: SSM: Attempting to optimize shared string heap.
+Wed Jan 21 21:40:33 2009 :: SSM: defrag_heap: made 1 block merges.
+Wed Jan 21 21:40:33 2009 :: Loading High Scores....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/scores.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading ../data/ranks.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading alliances....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/alliances.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading changes.
+Wed Jan 21 21:40:33 2009 :: Loading logs.
+Wed Jan 21 21:40:33 2009 :: Creating item load list....
+Wed Jan 21 21:40:33 2009 :: Loading Disabled Commands...
+Wed Jan 21 21:40:33 2009 :: Loading Multiplay list....
+Wed Jan 21 21:40:33 2009 :: Loading ../data/multiplay.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading quotes.
+Wed Jan 21 21:40:33 2009 :: Loading ../data/quotes.txt
+
+Wed Jan 21 21:40:33 2009 :: Loading banned sites.
+Wed Jan 21 21:40:33 2009 :: Loading ../data/bans.lst
+
+Wed Jan 21 21:40:33 2009 :: Done Loading ../data/bans.lst
+Wed Jan 21 21:40:33 2009 :: Loading Relevel Info.
+Wed Jan 21 21:40:33 2009 :: Loading imm brands.
+Wed Jan 21 21:40:33 2009 :: Loading System Data.
+Wed Jan 21 21:40:33 2009 :: Loading vehicles...
+Wed Jan 21 21:40:33 2009 :: Loading ../data/vehicles.txt
+
+Wed Jan 21 21:40:33 2009 :: ACK! MUD is ready on port 6660.
+Used 4 user CPU seconds.
+Wed Jan 21 21:40:51 2009 :: Loading ../data/objects.bak
+
+Wed Jan 21 21:54:52 2009 :: Sock.sinaddr:  127.0.0.1 (45520)
+Wed Jan 21 21:54:55 2009 :: Site Name: 127.0.0.1.
+Wed Jan 21 21:54:55 2009 :: Demortes connected from 127.0.0.1 ( last login was from 192.168.1.1 ) !
+Wed Jan 21 21:54:55 2009 :: Demortes logged on from IP 127.0.0.1
+Wed Jan 21 21:55:08 2009 :: Log Demortes: oload board
+Wed Jan 21 21:55:16 2009 :: Demortes has left Assault: High Tech War!
+Wed Jan 21 21:55:43 2009 :: Sock.sinaddr:  127.0.0.1 (45521)
+Wed Jan 21 21:55:45 2009 :: Site Name: 127.0.0.1.
+Wed Jan 21 21:55:45 2009 :: Demortes logged on from IP 127.0.0.1
+Wed Jan 21 21:55:47 2009 :: Log Demortes: shutdown now
+Wed Jan 21 21:55:47 2009 :: Normal termination of game.
+startup: shutting down

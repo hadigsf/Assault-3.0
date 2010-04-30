@@ -1,0 +1,110 @@
+#PLAYER
+Revision     52
+Name         Killien~
+Prompt       %h~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        1
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       2284
+PlayedTot    164780
+Note         0
+Room         3
+Location         996 940 1
+Hp   		500 500
+Act          0
+Config       266279
+Position     7
+Questpoints  15
+Pkills	   0
+Bkills	   1
+TPkills	   1
+TBkills	   5
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     KijW1Iu7P5/Ck~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         is all that he can be~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         75.179.167.95~
+Failures     0
+LastLogin    Sat Sep  6 01:41:06 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   11
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   8   0   2   0   0   0   0   0   7   3   0   0   0   0   0   -1
+Alias    g~  get blue~
+Alias    u~  upgrade~
+Alias    r~  reload rock~
+Alias    q~  qpspend blueprint~
+Alias    f~  fire s~
+End
+
+#OBJECT
+Nest         0
+Name         sonic boom rocket launcher~
+ShortDescr   @@Ga @@W"@@ySonic Boom@@W" @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N~
+Description  @@Ga @@Gr@@ro@@Gc@@rk@@Ge@@rt@@G l@@ra@@Gu@@rn@@Gc@@rh@@Ge@@rr@@N, nicknamed @@W"The @@ySonic Boom@@W," @@Nis here.~
+Vnum         1125
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       10
+Heat         0
+Level        50
+Values       0 1 3 32 3 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

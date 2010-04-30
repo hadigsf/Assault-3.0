@@ -1,0 +1,314 @@
+#PLAYER
+Revision     52
+Name         Tyfus~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        2
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       9988
+PlayedTot    11946
+Note         0
+Room         3
+Location         718 531 1
+Hp   		500 500
+Act          0
+Config       264551
+Position     7
+Questpoints  594
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     TyrHE8rbE8jM.~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         172.162.63.58~
+Failures     0
+LastLogin    Tue Nov 25 08:46:27 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       128
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       1 2
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         laserproof bracer~
+ShortDescr   @@lLas@@Ber@@ePr@@Roo@@ef@@r Bra@@Gcer@@N~
+Description  @@lLas@@Ber@@ePr@@Roo@@ef@@r Bra@@Gcer@@N has been dropped here.~
+Vnum         1129
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       1
+Heat         1
+Level        70
+Values       5 0 0 60 -49 -44 0 70 11 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof mask~
+ShortDescr   a@@e Bul@@Rlet@@lPro@@Bof@@c Ma@@ask@@N~
+Description  A@@e Bul@@Rlet@@lPro@@Bof@@c Ma@@ask@@N has been dropped here.~
+Vnum         1099
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        70
+Values       1 0 -63 70 -65 -1 1 -5 -69 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         leg protectors iron~
+ShortDescr   @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N~
+Description  @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N are laying in the dirt.~
+Vnum         1072
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       15
+Heat         -2
+Level        60
+Values       2 0 5 31 60 -20 0 0 10 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       30 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof bracer~
+ShortDescr   @@lLas@@Ber@@ePr@@Roo@@ef@@r Bra@@Gcer@@N~
+Description  @@lLas@@Ber@@ePr@@Roo@@ef@@r Bra@@Gcer@@N has been dropped here.~
+Vnum         1129
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       1
+Heat         1
+Level        70
+Values       5 0 0 60 -49 -44 0 70 11 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof glasses~
+ShortDescr   @@bLas@@yer@@yPro@@bof@@e Gla@@Rss@@ees@@N~
+Description  @@bLas@@yer@@yPro@@bof@@e Gla@@Rss@@ees@@N have been dropped on the ground.~
+Vnum         1096
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         2
+Level        60
+Values       5 0 -54 3 0 0 45 60 14 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         neck plate neckplate~
+ShortDescr   @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Description  @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Vnum         1027
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -1
+Level        8
+Values       1 0 0 8 -1 0 0 -3 -6 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic necklace~
+ShortDescr   @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N~
+Description  @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N is hanging on the wall.~
+Vnum         1079
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -1
+Level        70
+Values       3 0 0 -19 0 70 20 -18 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bodysuit~
+ShortDescr   @@rBla@@Gst@@rpro@@Gof@@l Bod@@dys@@luit@@N~
+Description  @@rBla@@Gst@@rpro@@Gof@@l Bod@@dys@@luit@@N is laying on the ground.~
+Vnum         1086
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         -2
+Level        65
+Values       2 2 44 -60 65 0 -31 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   @@eA@@g pa@@Wir@@N of@@l Bla@@dst@@lpro@@dof@@p Bo@@mots@@N~
+Description  @@eA@@g pa@@Wir@@N of@@l Bla@@dst@@lpro@@dof@@p Bo@@mots@@N have been dropped here.~
+Vnum         1087
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       1
+Heat         -2
+Level        70
+Values       2 0 -40 30 70 0 25 6 -28 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         laserproof helmet~
+ShortDescr   @@cA@@l La@@Bse@@lrpr@@Boo@@lf@@e Hel@@Rme@@et@@N~
+Description  @@cA@@l La@@Bse@@lrpr@@Boo@@lf@@e Hel@@Rme@@et@@N is rolling around on the ground.~
+Vnum         1094
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        70
+Values       5 0 -63 42 -32 -62 -46 70 -35 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof earring~
+ShortDescr   @@RFir@@eepro@@Rof@@c Ear@@arin@@cgs@@N~
+Description  @@RFir@@eepro@@Rof@@c Ear@@arin@@cgs@@N are laying here.~
+Vnum         1107
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         -2
+Level        75
+Values       4 0 -5 0 -68 0 75 0 59 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

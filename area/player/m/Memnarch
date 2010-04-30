@@ -1,0 +1,92 @@
+#PLAYER
+Revision     52
+Name         Memnarch~
+Prompt       @@c[%q] @@e[@@r%h@@G/@@r%H@@Ghp @@r%T@@Gft @@y%Q@@Gqp@@e] @@cV: @@a%v@@c/@@a%V@@chp @@a%f@@c/@@a%F@@cmv @@a%m@@c/@@a%M@@cam (%C)@@N ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        4
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       65255
+PlayedTot    611642
+Note         0
+Room         3
+Location         996 3 1
+Hp   		500 500
+Act          0
+Config       5507431
+Position     7
+Questpoints  118
+Pkills	   2
+Bkills	   0
+TPkills	   59
+TBkills	   255
+Deaths	   83
+BLost	   243
+PBHits	   29
+PBDeaths	   21
+NukemWins	   1
+Medals	   5
+GPoints	   0
+Implants     0
+Password     MeT9MhfNvRJ7w~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        , @@yCaptain@@N of the @@eP@@Rraetorian@@N @@aG@@cuard@@N (rebuilding)~
+Whoname      W@@eT@@Rhe @@aG@@cuard~
+Monitor	   0
+Host         4.235.84.4~
+Failures     0
+LastLogin    Mon Dec 17 14:02:20 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     3
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 6
+Spec         2
+Setexit      2
+Experience   1882
+ 
+Refund   47307   848   8920   9348   9762   361   277   12260
+Skill   0   0   47   36   0   0   0   100   0   2   4   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#END

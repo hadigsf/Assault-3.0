@@ -1,0 +1,874 @@
+#PLAYER
+Revision     52
+Name         Draneer~
+Prompt       @@e%h/%Hhp @@G>@@N ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        8
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       2608
+PlayedTot    552178
+Note         0
+Room         3
+Location         502 331 0
+Hp   		500 500
+Act          0
+Config       1314919
+Position     7
+Questpoints  120
+Pkills	   0
+Bkills	   0
+TPkills	   32
+TBkills	   63
+Deaths	   43
+BLost	   231
+PBHits	   2
+PBDeaths	   16
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     DrhYqSJcvPZaA~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         wants more prof points~
+Whoname      Woff~
+Monitor	   0
+Host         75.155.123.142~
+Failures     0
+LastLogin    Fri Dec 21 14:55:08 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   8
+Alliance     3
+Suicided	   1
+MedalTimer   112
+FightTimer   0
+Reimb        0
+ProfPt       0 6
+Spec         2
+Setexit      0
+Experience   4
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   5   0   11   21   6   0   0   0   0   1   5   0   0   0   0   -1
+Alias    qpb~  qp blueprint~
+Alias    `~  demolish~
+Alias    ,~  build lumberyard~
+Alias    .~  build tan~
+Alias    /~  build quar~
+End
+
+#OBJECT
+Nest         0
+Name         Lead Bomb~
+ShortDescr   a Lead Bomb~
+Description  A Lead Bomb is ready to explode!~
+Vnum         999
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        40
+Values       0 0 500 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element sodium piece~
+ShortDescr   @@dA piece of @@gSodium@@N~
+Description  @@dA piece of @@gSodium@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       6 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element lead~
+ShortDescr   @@bA bit of @@RLead@@N~
+Description  @@bA bit of @@RLead@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       4 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

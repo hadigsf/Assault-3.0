@@ -1,0 +1,32 @@
+R Dantis~ 409
+R Xithen~ 72
+R Riviat~ 216
+R Abel~ 13
+R Roofus~ 5
+R Steven~ 146
+R Finale~ 9
+R Zalethon~ 82
+R Gann~ 7
+R Zhou~ 22
+R Nix~ 18
+R Gtest~ 12
+R Tarkan~ 7
+R Draneer~ 13
+R Aferi~ 33
+R Durikiu~ 9
+R Wulfston~ 39
+R Voruk~ 1
+R Marietta~ 6
+R Wilson~ 6
+R Gamma~ 12
+R Keth~ 329
+R Seryx~ 15
+R Kamahl~ 81
+R Xyre~ 29
+R Memnarch~ 77
+R Streea~ 25
+R Arturos~ 21
+R Dalvin~ 15
+R Blaze~ 17
+
+#DONE

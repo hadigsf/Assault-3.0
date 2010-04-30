@@ -1,0 +1,93 @@
+#PLAYER
+Revision     52
+Name         Indy~
+Prompt       @@d[@@w(@@e%h@@d/@@R%H@@w HP@@w) @@w(@@l%T@@d/@@B%t @@wTMR@@w) @@w(@@y%Q @@wQP) @@w(@@r%x @@wTNR@@w) @@w(@@a%C @@w%s@@w)@@d]@@N~
+Dead	       1
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       26216
+PlayedTot    26216
+Note         0
+Room         3
+Location         969 92 1
+Hp   		1 500
+Act          0
+Config       264551
+Position     7
+Questpoints  1116
+Pkills	   3
+Bkills	   0
+TPkills	   3
+TBkills	   0
+Deaths	   0
+BLost	   50
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   1
+GPoints	   0
+Implants     0
+Password     InCtyHZaAu4.U~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      W@@dBlack@@y^@@dOut@@N~
+Monitor	   0
+Host         76.87.79.71~
+Failures     0
+LastLogin    Tue Jan  8 20:16:24 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     2
+Suicided	   1
+MedalTimer   404
+FightTimer   356
+Reimb        0
+ProfPt       2 2
+Spec         2
+Setexit      0
+Experience   149
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#END

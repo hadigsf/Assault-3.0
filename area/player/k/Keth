@@ -1,0 +1,466 @@
+#PLAYER
+Revision     52
+Name         Keth~
+Prompt       @@W(@@c%C@@d-%s@@W)(@@gExit:%E@@W)(@@e%h@@W)(@@GFT:@@y%T@@W)(@@GMedal:@@l%d@@W)~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        15
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       5532
+PlayedTot    218273
+Note         0
+Room         3
+Location         745 308 0
+Hp   		500 500
+Act          0
+Config       5507431
+Position     7
+Questpoints  4970
+Pkills	   2
+Bkills	   93
+TPkills	   9
+TBkills	   487
+Deaths	   18
+BLost	   87
+PBHits	   0
+PBDeaths	   1
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     CoSFxnX.1eR96~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        .~
+Whoname      Woff~
+Monitor	   0
+Host         67.40.104.248~
+Failures     0
+LastLogin    Fri Dec 28 06:42:16 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     6
+Suicided	   0
+MedalTimer   459
+FightTimer   0
+Reimb        0
+ProfPt       0 4
+Spec         2
+Setexit      -1
+Experience   63888
+ 
+Refund   1046   105   21   21   21   420   40   510
+Skill   0   0   150   0   0   253   0   0   200   0   4   0   200   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 1887 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 10611 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource gold~
+ShortDescr   @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Description  @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       3 13425 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 10480 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 2831 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 2038 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 20000 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Blaster~
+ShortDescr   @@mA Ps@@pyc@@mhi@@pc Bla@@mster@@N~
+Description  @@mA Ps@@pyc@@mhi@@pc Bla@@mster @@dwas left here.@@N~
+Vnum         1151
+ExtraFlags   4
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       5
+Heat         1
+Level        70
+Values       15 15 34 224 5 111 24 0 0 0 0 5 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Jump Suit~
+ShortDescr   @@yA @@bJ@@mu@@pm@@Wp @@pS@@mu@@bi@@yt@@N~
+Description  @@dAn Ally-@@bJ@@mu@@pm@@Wp @@pS@@mu@@bi@@yt@@d glows with psychic energy.@@N~
+Vnum         1144
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      -1
+ItemType     6
+Weight       2
+Heat         0
+Level        50
+Values       2 20 0 0 0 95 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Jump Suit~
+ShortDescr   @@yA @@bJ@@mu@@pm@@Wp @@pS@@mu@@bi@@yt@@N~
+Description  @@dAn Ally-@@bJ@@mu@@pm@@Wp @@pS@@mu@@bi@@yt@@d glows with psychic energy.@@N~
+Vnum         1144
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      -1
+ItemType     6
+Weight       2
+Heat         0
+Level        50
+Values       2 20 0 0 0 95 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Psychic Gunner Installation~
+ShortDescr   @@y[@@mP@@ps@@mych@@pi@@mc@@y] @@WGunner Upgrade@@N~
+Description  @@y[@@mP@@ps@@mych@@pi@@mc@@y] @@WGunner Upgrade@@N~
+Vnum         32590
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     11
+Weight       1
+Heat         0
+Level        50
+Values       -1 85 0 0 0 4 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       60 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         cigar cuban~
+ShortDescr   a cuban cigar~
+Description  A huge cuban cigar lies on the floor! What a waste!~
+Vnum         1501
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     34
+Weight       1
+Heat         1
+Level        1
+Values       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Master Blueprints~
+ShortDescr   level 3 Master Blueprints~
+Description  Level 3 Master Blueprints are here.~
+Vnum         32660
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        3
+Values       0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       10 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       11 30 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       60 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

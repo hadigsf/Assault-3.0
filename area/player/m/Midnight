@@ -1,0 +1,279 @@
+#PLAYER
+Revision     52
+Name         Midnight~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        12
+Level        0
+Invis        90
+Incog		 90
+Trust        90
+Wizbit       1
+Played       12118
+PlayedTot    65626
+Note         0
+Room         3
+Location         7 825 1
+Hp   		500 500
+Act          12288
+Config       4589927
+Position     7
+Questpoints  8000
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   1
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Mi47EYW8Tx6AM~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        @@dThe Forgotten...~
+Whoname      Woff~
+Monitor	   0
+Host         74.38.193.249~
+Failures     0
+LastLogin    Sat Nov 10 20:40:41 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   20
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       3 3
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Scan Disk~
+ShortDescr   @@dA version @@W4.4 @@yScan@@d disk@@N~
+Description  @@dA version @@W4.4 @@yScan@@d disk was left here.@@N~
+Vnum         1141
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       3 44 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Virus Disk~
+ShortDescr   @@dA version @@W4.4 @@rV@@Gi@@rr@@Gu@@rs@@d disk@@N~
+Description  @@dA version @@W4.4 @@rV@@Gi@@rr@@Gu@@rs@@d disk was left here.@@N~
+Vnum         1138
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       0 44 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Virus Disk~
+ShortDescr   @@dA version @@W4.8 @@rV@@Gi@@rr@@Gu@@rs@@d disk@@N~
+Description  @@dA version @@W4.8 @@rV@@Gi@@rr@@Gu@@rs@@d disk was left here.@@N~
+Vnum         1138
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       0 48 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Scan Disk~
+ShortDescr   @@dA version @@W5.0 @@yScan@@d disk@@N~
+Description  @@dA version @@W5.0 @@yScan@@d disk was left here.@@N~
+Vnum         1141
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       3 50 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spoof disk~
+ShortDescr   @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Description  @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Vnum         1145
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         1
+Level        1
+Values       4 40 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Master Blueprints~
+ShortDescr   level 3 Master Blueprints~
+Description  Level 3 Master Blueprints are here.~
+Vnum         32660
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        3
+Values       0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Format Disk~
+ShortDescr   @@dA version @@W4.6 FORMAT@@d disk@@N~
+Description  @@dA version @@W4.6 FORMAT@@d disk was left here.@@N~
+Vnum         1140
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       2 46 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Virus Disk~
+ShortDescr   @@dA version @@W4.1 @@rV@@Gi@@rr@@Gu@@rs@@d disk@@N~
+Description  @@dA version @@W4.1 @@rV@@Gi@@rr@@Gu@@rs@@d disk was left here.@@N~
+Vnum         1138
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       0 41 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Scan Disk~
+ShortDescr   @@dA version @@W5.0 @@yScan@@d disk@@N~
+Description  @@dA version @@W5.0 @@yScan@@d disk was left here.@@N~
+Vnum         1141
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         0
+Level        1
+Values       3 50 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spoof disk~
+ShortDescr   @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Description  @@dA version @@W4.0 @@aS@@cp@@ao@@co@@af @@ddisk@@N~
+Vnum         1145
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     23
+Weight       1
+Heat         1
+Level        1
+Values       4 40 0 0 0 102 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       7 75 1 0 0 0 0 0 75 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

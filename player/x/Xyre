@@ -1,0 +1,144 @@
+#PLAYER
+Revision     52
+Name         Xyre~
+Prompt       %s:%C @@d(%E) @@G(QP@@r%Q@@d/@@GXP@@r%x@@G)%c@@d%T @@b(T:@@m%r@@b) @@cHP@@a%h@@d/@@c%H @@d(@@RVH@@e%v@@d/@@R%V VF@@e%f@@d/@@R%F VA@@e%m@@d/@@R%M@@d) %q@@N >%c~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        4
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       913
+PlayedTot    326468
+Note         0
+Room         3
+Location         325 293 1
+Hp   		500 500
+Act          0
+Config       5515623
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   26
+TBkills	   141
+Deaths	   25
+BLost	   239
+PBHits	   3
+PBDeaths	   3
+NukemWins	   0
+Medals	   1
+GPoints	   0
+Implants     0
+Password     XyS6YUtMpOEv6~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        -fight the war, fuck the norm.~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         24.16.104.117~
+Failures     0
+LastLogin    Mon Oct 20 19:41:31 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   18
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   468
+FightTimer   0
+Reimb        0
+ProfPt       0 4
+Spec         2
+Setexit      0
+Experience   12
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   96   0   0   0   0   0   14   2   2   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       10 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

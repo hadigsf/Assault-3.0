@@ -1,0 +1,381 @@
+Thu Jan  8 15:54:12 2009 :: Reading Area Files...
+Thu Jan  8 15:54:12 2009 :: Loading web data.
+Thu Jan  8 15:54:12 2009 :: Loading Building Table....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/building_table.txt
+
+Thu Jan  8 15:54:12 2009 :: Buildings: 138
+Thu Jan  8 15:54:12 2009 :: Loading Wilderness....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/map.txt
+
+Thu Jan  8 15:54:12 2009 :: Creating Special Maps....
+Thu Jan  8 15:54:12 2009 :: Loading Buildings....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/buildings.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading Objects....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/objects.lst
+
+Thu Jan  8 15:54:12 2009 :: [*****] FILE: ../data/objects.lst LINE: 21471
+Thu Jan  8 15:54:12 2009 :: [*****] BUG: SSM: The shared string heap is full!
+Thu Jan  8 15:54:12 2009 :: SSM: Attempting to optimize shared string heap.
+Thu Jan  8 15:54:12 2009 :: SSM: defrag_heap: made 1 block merges.
+Thu Jan  8 15:54:12 2009 :: Loading High Scores....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/scores.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading ../data/ranks.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading alliances....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/alliances.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading changes.
+Thu Jan  8 15:54:12 2009 :: Loading logs.
+Thu Jan  8 15:54:12 2009 :: Creating item load list....
+Thu Jan  8 15:54:12 2009 :: Loading Disabled Commands...
+Thu Jan  8 15:54:12 2009 :: Loading Multiplay list....
+Thu Jan  8 15:54:12 2009 :: Loading ../data/multiplay.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading quotes.
+Thu Jan  8 15:54:12 2009 :: Loading ../data/quotes.txt
+
+Thu Jan  8 15:54:12 2009 :: Loading banned sites.
+Thu Jan  8 15:54:12 2009 :: Loading ../data/bans.lst
+
+Thu Jan  8 15:54:12 2009 :: Done Loading ../data/bans.lst
+Thu Jan  8 15:54:12 2009 :: Loading Relevel Info.
+Thu Jan  8 15:54:12 2009 :: Loading imm brands.
+Thu Jan  8 15:54:12 2009 :: Loading System Data.
+Thu Jan  8 15:54:12 2009 :: Loading vehicles...
+Thu Jan  8 15:54:12 2009 :: Loading ../data/vehicles.txt
+
+Thu Jan  8 15:54:12 2009 :: ACK! MUD is ready on port 6660.
+Thu Jan  8 15:54:19 2009 :: Sock.sinaddr:  192.168.1.1 (2023)
+Used 4 user CPU seconds.
+Thu Jan  8 15:54:19 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 15:54:26 2009 :: Site Name: 192.168.1.1.
+Thu Jan  8 15:54:26 2009 :: Demortes logged on from IP 192.168.1.1
+Thu Jan  8 15:54:34 2009 :: Log Demortes: oload board
+Thu Jan  8 15:55:57 2009 :: Demortes has left Assault: High Tech War!
+Thu Jan  8 16:27:01 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 16:59:41 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 17:32:26 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 18:05:12 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 18:37:58 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 19:10:48 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 19:43:41 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 20:16:38 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 20:49:32 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 21:22:28 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 21:55:30 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 22:28:32 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 23:01:33 2009 :: Loading ../data/objects.bak
+
+Thu Jan  8 23:34:39 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 00:07:48 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 00:40:59 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 01:14:08 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 01:47:22 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 02:20:38 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 02:53:52 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 03:27:10 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 04:00:32 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 04:33:55 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 05:07:18 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 05:40:45 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 06:14:15 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 06:47:47 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 07:21:40 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 07:55:25 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 08:29:07 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 09:02:50 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 09:36:34 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 10:10:27 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 10:44:19 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 11:18:15 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 11:52:13 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 12:26:15 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 13:00:18 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 13:34:25 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 14:08:34 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 14:42:51 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 15:17:13 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 15:41:22 2009 :: Sock.sinaddr:  76.5.163.29 (13605)
+Fri Jan  9 15:41:23 2009 :: Site Name: 76.5.163.29.
+Fri Jan  9 15:41:23 2009 :: Flestiraef connected from 76.5.163.29 ( last login was from 63.173.110.58 ) !
+Fri Jan  9 15:41:23 2009 :: Flestiraef logged on from IP 76.5.163.29
+Fri Jan  9 15:42:06 2009 :: Flestiraef has left Assault: High Tech War!
+Fri Jan  9 15:51:32 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 16:25:54 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 17:00:21 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 17:34:47 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 18:09:15 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 18:43:51 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 19:18:29 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 19:53:07 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 20:27:49 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 21:02:35 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 21:37:25 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 22:12:16 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 22:47:08 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 23:22:07 2009 :: Loading ../data/objects.bak
+
+Fri Jan  9 23:57:06 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 00:32:10 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 01:07:14 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 01:42:24 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 02:17:36 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 02:52:52 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 03:28:13 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 04:03:37 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 04:38:58 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 05:14:22 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 05:49:49 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 06:25:23 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 07:00:56 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 07:36:51 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 08:12:35 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 08:48:17 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 09:24:02 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 09:59:50 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 10:35:40 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 11:11:33 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 11:47:30 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 12:23:31 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 12:59:33 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 13:35:38 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 14:11:44 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 14:47:53 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 15:24:07 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 16:00:21 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 16:36:44 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 17:13:05 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 17:49:31 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 18:25:58 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 19:02:34 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 19:39:08 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 20:03:04 2009 :: Sock.sinaddr:  70.20.239.145 (50486)
+Sat Jan 10 20:03:08 2009 :: Site Name: 70.20.239.145.
+Sat Jan 10 20:03:08 2009 :: Grave connected from 70.20.239.145 ( last login was from 70.110.176.107 ) !
+Sat Jan 10 20:03:08 2009 :: WARNING!!! Grave logged in with level 90.
+
+Sat Jan 10 20:03:08 2009 :: Grave logged on from IP 70.20.239.145
+Sat Jan 10 20:03:14 2009 :: Log Grave: oload board
+Sat Jan 10 20:15:44 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 20:45:19 2009 :: Sock.sinaddr:  24.150.131.139 (4008)
+Sat Jan 10 20:52:23 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 20:54:16 2009 :: Sock.sinaddr:  24.150.131.139 (4015)
+Sat Jan 10 20:58:23 2009 :: Doseki connected from 24.150.131.139 ( last login was from Unknown! ) !
+Sat Jan 10 20:58:23 2009 :: Doseki logged on from IP 24.150.131.139
+Sat Jan 10 20:59:14 2009 :: Sock.sinaddr:  24.150.131.139 (4016)
+Sat Jan 10 20:59:37 2009 :: Closing link to Doseki.
+Sat Jan 10 21:29:12 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 21:42:28 2009 :: Sock.sinaddr:  24.150.131.139 (4049)
+Sat Jan 10 21:42:42 2009 :: Site Name: 24.150.131.139.
+Sat Jan 10 21:42:42 2009 :: Doseki logged on from IP 24.150.131.139
+Sat Jan 10 21:46:10 2009 :: Doseki has left Assault: High Tech War!
+Sat Jan 10 21:49:02 2009 :: Sock.sinaddr:  24.150.131.139 (4061)
+Sat Jan 10 21:49:10 2009 :: Site Name: 24.150.131.139.
+Sat Jan 10 21:49:10 2009 :: Doseki logged on from IP 24.150.131.139
+Sat Jan 10 22:06:01 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 22:29:20 2009 :: Doseki has left Assault: High Tech War!
+Sat Jan 10 22:42:55 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 23:19:46 2009 :: Loading ../data/objects.bak
+
+Sat Jan 10 23:32:50 2009 :: Grave has left Assault: High Tech War!
+Sat Jan 10 23:56:51 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 00:33:49 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 01:11:00 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 01:48:00 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 02:25:13 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 03:02:24 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 03:39:45 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 04:16:58 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 04:54:24 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 05:31:44 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 06:09:11 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 06:46:39 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 07:25:46 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 08:03:18 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 08:41:00 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 09:18:41 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 09:56:39 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 10:34:25 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 11:12:23 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 11:50:21 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 12:13:49 2009 :: Sock.sinaddr:  24.150.131.139 (4438)
+Sun Jan 11 12:14:10 2009 :: Site Name: 24.150.131.139.
+Sun Jan 11 12:14:10 2009 :: Doseki logged on from IP 24.150.131.139
+Sun Jan 11 12:24:36 2009 :: EOF encountered on read.
+Sun Jan 11 12:24:36 2009 :: Closing link to Doseki.
+Sun Jan 11 12:28:39 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 13:06:43 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 13:45:06 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 14:23:17 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 15:01:55 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 15:40:15 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 16:18:50 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 16:57:16 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 17:36:45 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 18:15:20 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 18:57:40 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 19:37:35 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 20:21:39 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 20:31:32 2009 :: Sock.sinaddr:  70.20.239.145 (50094)
+Sun Jan 11 20:31:36 2009 :: Site Name: 70.20.239.145.
+Sun Jan 11 20:31:36 2009 :: Grave logged on from IP 70.20.239.145
+Sun Jan 11 21:05:23 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 21:53:09 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 22:42:09 2009 :: Loading ../data/objects.bak
+
+Sun Jan 11 23:29:41 2009 :: Grave has left Assault: High Tech War!
+Mon Jan 12 00:20:00 2009 :: Loading ../data/objects.bak
+
+Mon Jan 12 01:24:48 2009 :: Loading ../data/objects.bak
+
+Mon Jan 12 02:34:31 2009 :: Loading ../data/objects.bak
+
+Mon Jan 12 03:48:18 2009 :: Loading ../data/objects.bak
+
+Mon Jan 12 07:56:11 2009 :: Loading ../data/objects.bak
+
+Mon Jan 12 13:52:02 2009 :: Loading ../data/objects.bak
+
+Tue Jan 13 05:17:27 2009 :: Loading ../data/objects.bak
+
+Wed Jan 14 04:38:23 2009 :: Loading ../data/objects.bak
+
+Thu Jan 15 21:30:41 2009 :: Sock.sinaddr:  70.20.239.145 (50528)
+Thu Jan 15 21:31:50 2009 :: Site Name: 70.20.239.145.
+Thu Jan 15 21:31:50 2009 :: Grave logged on from IP 70.20.239.145
+Thu Jan 15 23:24:35 2009 :: EOF encountered on read.
+Thu Jan 15 23:24:35 2009 :: Closing link to Grave.
+New_descriptor: getpeername: Transport endpoint is not connected
+Write_to_descriptor: Broken pipe
+Fri Jan 16 23:14:58 2009 :: Closing link to Grave.

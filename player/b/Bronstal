@@ -1,0 +1,654 @@
+#PLAYER
+Revision     52
+Name         Bronstal~
+Prompt       %h %m %v  ##%c~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       68729
+PlayedTot    68729
+Note         0
+Room         3
+Location         290 369 1
+Hp   		500 500
+Act          0
+Config       268327
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     BrfBRtnoL52eQ~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         92.235.204.110~
+Failures     0
+LastLogin    Sat Aug 30 17:18:17 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   2
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 57 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 32 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 48 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 40 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 59 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 6 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 247 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       90
+Heat         0
+Level        1
+Values       1 2293 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 294 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Resource Rock~
+ShortDescr   @@gA large @@drock@@N~
+Description  @@gA large @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 506 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 14 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra arm guards~
+ShortDescr   @@pSp@@bec@@rtra arm guards@@N~
+Description  @@pSp@@bec@@rtra arm guards@@N~
+Vnum         1116
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 0 80 -46 0 77 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof belt~
+ShortDescr   a@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N~
+Description  A@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N has been dropped here.~
+Vnum         1105
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       1
+Heat         1
+Level        95
+Values       1 0 -24 95 26 -80 -3 -14 -31 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      4
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof cape~
+ShortDescr   @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N~
+Description  @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N has been left here.~
+Vnum         1104
+ExtraFlags   0
+WearFlags    8454144
+WearLoc      16
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 0 0 90 0 0 -3 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring steel~
+ShortDescr   @@dSt@@gee@@dl@@y Ri@@bng@@N~
+Description  @@dSt@@gee@@dl@@y Ri@@bng@@N has been tossed aside.~
+Vnum         1070
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      13
+ItemType     9
+Weight       1
+Heat         -1
+Level        50
+Values       2 0 -18 -14 50 0 2 -14 15 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic hardhat~
+ShortDescr   @@lPla@@Bsti@@lc@@a Ha@@crd@@aha@@ct@@N~
+Description  @@lPla@@Bsti@@lc@@a Ha@@crd@@aha@@ct@@N lays on the ground with some acid acid dripping.~
+Vnum         1073
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        40
+Values       3 0 -15 0 19 40 -13 -6 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring steel~
+ShortDescr   @@dSt@@gee@@dl@@y Ri@@bng@@N~
+Description  @@dSt@@gee@@dl@@y Ri@@bng@@N has been tossed aside.~
+Vnum         1070
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         -1
+Level        50
+Values       2 0 -18 -14 50 0 2 -14 15 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         titanium bracers~
+ShortDescr   @@gTit@@Wani@@gum@@R Bra@@ecer@@Rs@@N~
+Description  @@gTit@@Wani@@gum@@R Bra@@ecer@@Rs@@N have been left here.~
+Vnum         1068
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       3
+Heat         2
+Level        45
+Values       2 0 12 -13 45 -15 10 -6 16 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         titanium bracers~
+ShortDescr   @@gTit@@Wani@@gum@@R Bra@@ecer@@Rs@@N~
+Description  @@gTit@@Wani@@gum@@R Bra@@ecer@@Rs@@N have been left here.~
+Vnum         1068
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       3
+Heat         2
+Level        45
+Values       2 0 12 -13 45 -15 10 -6 16 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Fire Resistant Suit~
+ShortDescr   @@eA @@RFi@@er@@Re-@@eR@@Res@@eis@@Rta@@en@@Rt S@@eu@@Rit@@N~
+Description  @@eA @@RFi@@er@@Re-@@eR@@Res@@eis@@Rta@@en@@Rt S@@eu@@Rit@@g hangs here.@@N~
+Vnum         1023
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       10
+Heat         1
+Level        40
+Values       4 0 10 -10 0 0 40 0 8 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Steel Platings~
+ShortDescr   @@WS@@gt@@de@@ge@@Wl @@gL@@de@@gg @@WP@@gl@@da@@gt@@Wi@@gn@@dg@@gs@@N~
+Description  @@WS@@gt@@de@@ge@@Wl @@gL@@de@@gg @@WP@@gl@@da@@gt@@Wi@@gn@@dg@@gs lie rusted on the floor.@@N~
+Vnum         1021
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       8
+Heat         -1
+Level        40
+Values       1 0 10 40 -7 -15 0 -1 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laser Machinegun~
+ShortDescr   @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Description  @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Vnum         1043
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        20
+Values       999 999 13 32 1 42 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laser Machinegun~
+ShortDescr   @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Description  @@mA @@RL@@ea@@ps@@me@@Rr M@@ma@@pc@@eh@@Ri@@mn@@pe@@RG@@eu@@Wn@@N~
+Vnum         1043
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       2
+Heat         0
+Level        20
+Values       999 999 13 32 1 42 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Gloves~
+ShortDescr   @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs@@N~
+Description  @@bT@@dh@@bi@@dc@@bk @@dLe@@ba@@dth@@be@@dr @@bG@@dl@@bov@@de@@bs, full of bullet holes, are here.@@N~
+Vnum         1036
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        23
+Values       1 0 -3 23 -2 5 -4 0 -11 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Acidproof Faceguard~
+ShortDescr   @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Description  @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Vnum         1025
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        20
+Values       3 0 0 0 -8 20 -5 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots acidproof~
+ShortDescr   @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@N~
+Description  @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@g await for the taking.@@N~
+Vnum         1018
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       0
+Heat         -1
+Level        30
+Values       3 0 0 0 -5 30 -10 5 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Shoulderpads~
+ShortDescr   @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@N~
+Description  @@gA pair of @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@g are here.@@N~
+Vnum         1060
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         2
+Level        24
+Values       1 0 6 24 0 0 0 -4 -6 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic necklace~
+ShortDescr   @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N~
+Description  @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N is hanging on the wall.~
+Vnum         1079
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -1
+Level        70
+Values       3 0 0 -19 0 70 20 -18 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic goggles~
+ShortDescr   @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N~
+Description  @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N have been placed on the wall.~
+Vnum         1078
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         1
+Level        60
+Values       3 0 0 0 -15 60 18 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic necklace~
+ShortDescr   @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N~
+Description  @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N is hanging on the wall.~
+Vnum         1079
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -1
+Level        70
+Values       3 0 0 -19 0 70 20 -18 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

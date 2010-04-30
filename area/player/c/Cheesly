@@ -1,0 +1,92 @@
+#PLAYER
+Revision     52
+Name         Cheesly~
+Prompt       @@c[%q] @@e[@@r%h@@G/@@r%H@@Ghp @@r%T@@Gft @@y%Q@@Gqp@@e] @@cV: @@a%v@@c/@@a%V@@chp @@a%f@@c/@@a%F@@cmv @@a%m@@c/@@a%M@@cam (%C)@@N ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        11
+Level        0
+Invis        85
+Incog		 85
+Trust        85
+Wizbit       1
+Played       28683
+PlayedTot    3171003
+Note         0
+Room         3
+Location         666 666 1
+Hp   		30000 30000
+Act          20480
+Config       4459879
+Position     7
+Questpoints  26
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   22
+BLost	   0
+PBHits	   19
+PBDeaths	   4
+NukemWins	   0
+Medals	   187
+GPoints	   1
+Implants     0
+Password     ChV76jlD97g8I~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Whoname      Woff~
+Monitor	   17
+Host         68.106.195.120~
+Failures     0
+LastLogin    Fri Dec 28 06:49:03 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        30000
+Pagelen      30
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     5
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 9
+Spec         2
+Setexit      0
+Experience   4997950
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   9   0   0   269   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#END

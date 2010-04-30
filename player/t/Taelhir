@@ -1,0 +1,331 @@
+#PLAYER
+Revision     52
+Name         Taelhir~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        2
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       3128
+PlayedTot    3128
+Note         0
+Room         3
+Location         286 772 1
+Hp   		500 500
+Act          0
+Config       262503
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Ta6KOu3sZyAo2~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         24.138.52.199~
+Failures     0
+LastLogin    Mon Oct 13 20:51:45 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 0
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Lava Thrower~
+ShortDescr   Blueprints for 2nd level Lava thrower~
+Description  Blueprints for 2nd level Lava thrower~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        2
+Values       81 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 739 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 159 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource rock~
+ShortDescr   @@gA chipped @@drock@@N~
+Description  @@gA chipped @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 122 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 19 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 169 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       1 56 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 720 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rocket Pods~
+ShortDescr   @@yRO@@bC@@RK@@eET PO@@gD@@WS@@N~
+Description  @@yRO@@bC@@RK@@eET PO@@gD@@WS@@N~
+Vnum         932
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     22
+Weight       1
+Heat         1
+Level        1
+Values       3 -50 3 100 0 0 4 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         helmet~
+ShortDescr   @@da @@Gb@@da@@Gt@@dt@@Gl@@de @@Gh@@de@@Gl@@dm@@Ge@@dt@@N~
+Description  @@dA @@Gb@@da@@Gt@@dt@@Gl@@de @@Gh@@de@@Gl@@dm@@Ge@@dt@@g rolls on the floor.@@N~
+Vnum         1017
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        10
+Values       1 0 9 10 0 0 0 5 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Glock 17~
+ShortDescr   @@ga @@dG@@clo@@bc@@dk @@c17@@N~
+Description  @@gA @@dG@@clo@@bc@@dk @@c17@@g lies on the ground.@@N~
+Vnum         1000
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       1
+Heat         0
+Level        15
+Values       17 17 0 0 1 0 0 -4 3 -1 18 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         element grass~
+ShortDescr   @@rSome grass@@N~
+Description  @@rSome grass@@N~
+Vnum         32682
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     15
+Weight       1
+Heat         0
+Level        1
+Values       2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Glock 17~
+ShortDescr   @@ga @@dG@@clo@@bc@@dk @@c17@@N~
+Description  @@gA @@dG@@clo@@bc@@dk @@c17@@g lies on the ground.@@N~
+Vnum         1000
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       1
+Heat         0
+Level        15
+Values       16 17 0 0 1 0 0 -4 3 -1 18 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Free TShirt Shirt T-Shirt~
+ShortDescr   @@WAn @@eASSAULT@@W T-Shirt@@N~
+Description  @@WAn @@eASSAULT@@W T-Shirt@@N~
+Vnum         32658
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       0
+Heat         0
+Level        1
+Values       -1 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+Quest       0 0
+End
+
+#END

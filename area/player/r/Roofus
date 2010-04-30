@@ -1,0 +1,92 @@
+#PLAYER
+Revision     52
+Name         Roofus~
+Prompt       %s~
+Dead	       0
+Deleted      1
+Sex          1
+LoginSex     1
+Class        11
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       576
+PlayedTot    7776
+Note         0
+Room         3
+Location         485 92 0
+Hp   		500 500
+Act          0
+Config       266343
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Ro4yYSPKE.5rQ~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Whoname      Woff~
+Monitor	   0
+Host         4.165.186.214~
+Failures     0
+LastLogin    Fri Dec 28 00:36:19 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        2000
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 0
+Spec         2
+Setexit      1
+Experience   0
+ 
+Refund   21437   66   3433   5580   6649   168   223   4757
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    f~  fire~
+Alias    a~  aim~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#END

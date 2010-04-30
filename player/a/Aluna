@@ -1,0 +1,110 @@
+#PLAYER
+Revision     52
+Name         Aluna~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          2
+LoginSex     2
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       6755
+PlayedTot    120718
+Note         0
+Room         3
+Location         841 613 0
+Hp   		500 500
+Act          0
+Config       264551
+Position     7
+Questpoints  0
+Pkills	   0
+Bkills	   0
+TPkills	   0
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   8
+PBDeaths	   6
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Al6qK/Z0KmypA~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title         Bellezza @@a{ @@WPr@@yi@@Wnc@@ae@@Wss @@ao@@cf @@dth@@Re @@dNig@@Bh@@dt@@N @@a}@@N~
+Ranking      off~
+Whoname      W@@aE@@li@@Ws@@aD@@Wr@@aa@@Wc@@lh@@ae@@g~
+Monitor	   0
+Host         70.112.248.238~
+Failures     0
+LastLogin    Tue Jan  8 20:04:45 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   2
+Alliance     -1
+Suicided	   1
+MedalTimer   712
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   0
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   5   0   0   0   0   0   0   0   0   0   3   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

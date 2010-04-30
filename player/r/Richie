@@ -1,0 +1,382 @@
+#PLAYER
+Revision     52
+Name         Richie~
+Prompt       cool p~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        0
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       8603
+PlayedTot    15870
+Note         0
+Room         3
+Location         845 510 1
+Hp   		500 500
+Act          0
+Config       266535
+Position     7
+Questpoints  173
+Pkills	   1
+Bkills	   0
+TPkills	   1
+TBkills	   0
+Deaths	   0
+BLost	   11
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     RixHRPdHnNRZo~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         82.70.143.238~
+Failures     0
+LastLogin    Thu Sep  4 13:13:33 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 2
+Spec         2
+Setexit      0
+Experience   6
+ 
+Refund   46   0   0   0   0   3   20   49
+Skill   1   0   0   0   0   0   0   0   0   1   1   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Shock Bomb~
+ShortDescr   @@bA @@yShock @@bBomb@@N~
+Description  @@bA @@yShock @@bBomb@@N~
+Vnum         1150
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       2
+Heat         0
+Level        70
+Values       0 0 30 0 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Shock Bomb~
+ShortDescr   @@bA @@yShock @@bBomb@@N~
+Description  @@bA @@yShock @@bBomb@@N~
+Vnum         1150
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       2
+Heat         0
+Level        70
+Values       0 0 30 0 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       0 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         EMP Bomb~
+ShortDescr   @@cAn @@aE@@yM@@aP @@cBomb@@N~
+Description  @@cAn @@aE@@yM@@aP @@cBomb lies here.@@N~
+Vnum         1149
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       1
+Heat         1
+Level        70
+Values       0 0 0 2 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         EMP Bomb~
+ShortDescr   @@cAn @@aE@@yM@@aP @@cBomb@@N~
+Description  @@cAn @@aE@@yM@@aP @@cBomb lies here.@@N~
+Vnum         1149
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       1
+Heat         1
+Level        70
+Values       0 0 0 2 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Shock Bomb~
+ShortDescr   @@bA @@yShock @@bBomb@@N~
+Description  @@bA @@yShock @@bBomb@@N~
+Vnum         1150
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       2
+Heat         0
+Level        70
+Values       0 0 30 0 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         EMP Bomb~
+ShortDescr   @@cAn @@aE@@yM@@aP @@cBomb@@N~
+Description  @@cAn @@aE@@yM@@aP @@cBomb lies here.@@N~
+Vnum         1149
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       1
+Heat         1
+Level        70
+Values       0 0 0 2 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Shock Bomb~
+ShortDescr   @@bA @@yShock @@bBomb@@N~
+Description  @@bA @@yShock @@bBomb@@N~
+Vnum         1150
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       2
+Heat         0
+Level        70
+Values       0 0 30 0 0 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         G11 rifle gun~
+ShortDescr   a @@rG11 @@Gas@@rsault @@Gri@@rfle@@N~
+Description  A @@rG11 @@Gas@@rsault @@Gri@@rfle@@N is ready to make some bullet holes.~
+Vnum         1011
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        99
+Values       50 50 39 0 2 0 2 7 1 -2 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         G11 rifle gun~
+ShortDescr   a @@rG11 @@Gas@@rsault @@Gri@@rfle@@N~
+Description  A @@rG11 @@Gas@@rsault @@Gri@@rfle@@N is ready to make some bullet holes.~
+Vnum         1011
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        99
+Values       50 50 39 0 2 0 2 7 1 -2 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring silver bullet~
+ShortDescr   @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Description  @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Vnum         1118
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         -1
+Level        75
+Values       1 0 0 75 -67 19 -69 -33 -47 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Free TShirt Shirt T-Shirt~
+ShortDescr   @@WAn @@eASSAULT@@W T-Shirt@@N~
+Description  @@WAn @@eASSAULT@@W T-Shirt@@N~
+Vnum         32658
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       0
+Heat         0
+Level        1
+Values       -1 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+Quest       0 0
+End
+
+#END

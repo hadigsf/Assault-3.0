@@ -1,0 +1,20 @@
+Fri Jan  2 23:33:16 2009 :: Reading Area Files...
+Fri Jan  2 23:33:16 2009 :: Loading web data.
+Fri Jan  2 23:33:16 2009 :: Loading Building Table....
+Fri Jan  2 23:33:16 2009 :: Loading ../data/building_table.txt
+
+Fri Jan  2 23:33:16 2009 :: Buildings: 138
+Fri Jan  2 23:33:16 2009 :: Loading Wilderness....
+Fri Jan  2 23:33:16 2009 :: Loading ../data/map.txt
+
+Fri Jan  2 23:33:16 2009 :: Creating Special Maps....
+Fri Jan  2 23:33:16 2009 :: Loading Buildings....
+Fri Jan  2 23:33:16 2009 :: Loading ../data/buildings.txt
+
+Fri Jan  2 23:33:16 2009 :: Loading Objects....
+Fri Jan  2 23:33:16 2009 :: Loading ../data/objects.lst
+
+Fri Jan  2 23:33:16 2009 :: [*****] FILE: ../data/objects.lst LINE: 21471
+Fri Jan  2 23:33:16 2009 :: [*****] BUG: SSM: The shared string heap is full!
+Fri Jan  2 23:33:16 2009 :: SSM: Attempting to optimize shared string heap.
+Fri Jan  2 23:33:16 2009 :: SSM: defrag_heap: made 1 block merges.

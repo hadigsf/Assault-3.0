@@ -1,0 +1,297 @@
+#PLAYER
+Revision     52
+Name         Rutten~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        1
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       12637
+PlayedTot    73168
+Note         0
+Room         3
+Location         50 677 0
+Hp   		500 500
+Act          0
+Config       262503
+Position     7
+Questpoints  5
+Pkills	   0
+Bkills	   0
+TPkills	   1
+TBkills	   0
+Deaths	   0
+BLost	   0
+PBHits	   3
+PBDeaths	   6
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     Rup3.FBYkJHEk~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Ranking      off~
+Whoname      Woff~
+Monitor	   0
+Host         99.255.28.193~
+Failures     0
+LastLogin    Mon Oct 13 14:22:27 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       128
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   1
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   1
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         neck plate neckplate~
+ShortDescr   @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Description  @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Vnum         1027
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -1
+Level        8
+Values       1 0 0 8 -1 0 0 -3 -6 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         leg protectors iron~
+ShortDescr   @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N~
+Description  @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N are laying in the dirt.~
+Vnum         1072
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       15
+Heat         -2
+Level        60
+Values       2 0 5 31 60 -20 0 0 10 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Fire-resistant Gloves~
+ShortDescr   @@eF@@Rire@@e-r@@Resi@@est@@Rant @@eGl@@Rove@@es@@N~
+Description  @@eF@@Rire@@e-r@@Resi@@est@@Rant@@e Gl@@Rove@@es@@N.~
+Vnum         1076
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -2
+Level        40
+Values       4 0 -10 -14 0 -10 40 10 -2 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots acidproof~
+ShortDescr   @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@N~
+Description  @@ra @@Gp@@ra@@Gi@@rr @@Go@@rf @@yA@@rc@@Gi@@rd@@yp@@rr@@Go@@ro@@yf @@rB@@Go@@ro@@yt@@rs@@g await for the taking.@@N~
+Vnum         1018
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       0
+Heat         -1
+Level        30
+Values       3 0 0 0 -5 30 -10 5 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Acidproof Faceguard~
+ShortDescr   @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Description  @@rA@@Gn @@rA@@Wc@@ri@@Gd@@rp@@Wr@@ro@@Go@@rf @@WF@@ra@@Gc@@re@@Wg@@ru@@Ga@@rr@@Wd@@N~
+Vnum         1025
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        20
+Values       3 0 0 0 -8 20 -5 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Thick Leather Shoulderpads~
+ShortDescr   @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@N~
+Description  @@gA pair of @@dT@@bh@@di@@bc@@dk @@bLe@@dat@@bhe@@dr @@bSh@@dou@@bld@@der@@bpa@@dds@@g are here.@@N~
+Vnum         1060
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         2
+Level        24
+Values       1 0 6 24 0 0 0 -4 -6 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Vest Bullet Proof Bulletproof~
+ShortDescr   @@dA Bullet-Proof Vest@@N~
+Description  @@dA Bullet-Proof Vest hangs here.@@N~
+Vnum         1016
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         1
+Level        20
+Values       1 0 9 20 3 -5 -2 0 -5 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic hardhat~
+ShortDescr   @@lPla@@Bsti@@lc@@a Ha@@crd@@aha@@ct@@N~
+Description  @@lPla@@Bsti@@lc@@a Ha@@crd@@aha@@ct@@N lays on the ground with some acid acid dripping.~
+Vnum         1073
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        40
+Values       3 0 -15 0 19 40 -13 -6 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring steel~
+ShortDescr   @@dSt@@gee@@dl@@y Ri@@bng@@N~
+Description  @@dSt@@gee@@dl@@y Ri@@bng@@N has been tossed aside.~
+Vnum         1070
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         -1
+Level        50
+Values       2 0 -18 -14 50 0 2 -14 15 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt copper~
+ShortDescr   @@mCo@@ppp@@mer@@c Be@@alt@@N~
+Description  @@mCo@@ppp@@mer@@c Be@@alt@@N has been thrown down.~
+Vnum         1071
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       10
+Heat         -2
+Level        55
+Values       2 0 15 0 55 -1 -20 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

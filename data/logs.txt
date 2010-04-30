@@ -1,0 +1,66 @@
+13
+Gtest~
+bug~
+Dec 26, 2007~
+Bug1~
+
+Gtest~
+typo~
+Dec 26, 2007~
+Typo1~
+
+Gtest~
+idea~
+Dec 26, 2007~
+Idea1~
+
+Demortes~
+idea~
+Jan 26, 2008~
+Testing~
+
+Demortes~
+bug~
+Jan 26, 2008~
+Fix all warnings in compile.~
+
+Memnarch~
+typo~
+Feb 01, 2008~
+On 'help gps', it says "Processor: Chip @@efactor@@N laptops..."~
+
+Trelane~
+bug~
+Feb 02, 2008~
+'build here' does not work for blind folks...~
+
+Draq~
+bug~
+Feb 24, 2008~
+Map is useless for blind players. It only shows the same things as look.~
+
+Draq~
+bug~
+Feb 25, 2008~
+The Mothership Comm building allows you to construct ships when it isn't finished.~
+
+Draq~
+bug~
+Feb 25, 2008~
+When you die in practice mode it tells you that you've left practice mode, but it doesn't actually take you out of practice mode.~
+
+Draq~
+bug~
+Feb 27, 2008~
+When attempting to perform an air strike on one of your own buildings in or out of practice mode, it sais unknown action.~
+
+Draq~
+bug~
+Feb 29, 2008~
+You can throw grenades in the painball arena.~
+
+Finale~
+bug~
+Jun 12, 2008~
+Warpsuit has a very strong preference to warp to the edges of the map...~
+

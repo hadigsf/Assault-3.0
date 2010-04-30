@@ -1,0 +1,773 @@
+#PLAYER
+Revision     52
+Name         Xithen~
+Prompt       @@d[@@w(@@e%h@@d/@@R%H@@w HP@@w) @@w(@@l%T@@d/@@B%t @@wTMR@@w) @@w(@@y%Q @@wQP) @@w(@@r%x @@wEXP@@w) @@w(@@a%C @@w%s@@w)@@d]@@N~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        11
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       4268
+PlayedTot    590243
+Note         0
+Room         3
+Location         30 4 1
+Hp   		500 500
+Act          0
+Config       4456807
+Position     7
+Questpoints  3665
+Pkills	   0
+Bkills	   0
+TPkills	   67
+TBkills	   329
+Deaths	   49
+BLost	   185
+PBHits	   15
+PBDeaths	   12
+NukemWins	   0
+Medals	   3
+GPoints	   0
+Implants     0
+Password     XiKqn3zYBp0dU~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        @@n- Zeh goggles, zhey do naasing!~
+Ranking      off~
+Whoname      W@@e[@@dNooooob@@e]~
+Monitor	   0
+Host         151.197.23.168~
+Failures     0
+LastLogin    Tue Jun 24 11:10:36 2008
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   64
+Alliance     1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 6
+Spec         2
+Setexit      -1
+Experience   3553
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   25   0   99   0   0   73   61   0   99   0   6   0   108   0   0   -1
+Alias    b~  build~
+Alias    lo~  map~
+Alias    dem~  demolish~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       90 90 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 carbine rifle gun~
+ShortDescr   @@Gan M@@d4A@@G1 ca@@drb@@Gine@@N~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       90 90 36 0 2 0 0 20 3 -1 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic goggles~
+ShortDescr   @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N~
+Description  @@yPla@@bsti@@yc@@l Gog@@Bgle@@ls@@N have been placed on the wall.~
+Vnum         1078
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         1
+Level        60
+Values       3 0 30 30 30 60 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra arm guards~
+ShortDescr   @@pSp@@bec@@rtra arm guards@@N~
+Description  @@pSp@@bec@@rtra arm guards@@N~
+Vnum         1116
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 40 80 40 40 77 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         leg protectors iron~
+ShortDescr   @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N~
+Description  @@dIron@@e Le@@Rg@@r Prot@@Gect@@rers@@N are laying in the dirt.~
+Vnum         1072
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       15
+Heat         -2
+Level        60
+Values       2 0 30 31 60 30 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof shoulderguards~
+ShortDescr   @@RF@@eir@@Rep@@ero@@Rof@@W Shou@@dlder@@gGua@@drd@@Ws@@N~
+Description  @@RF@@eir@@Rep@@ero@@Rof@@W Shou@@dlder@@gGua@@drd@@Ws@@N are laying in the dirt.~
+Vnum         1108
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         -2
+Level        80
+Values       4 0 40 40 40 40 80 56 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Bio Wrist Cover~
+ShortDescr   @@rB@@Gi@@Wo @@GW@@rr@@Wi@@rs@@Gt @@WC@@ro@@Wv@@Ge@@rr@@Gs@@N~
+Description  @@rB@@Gi@@Wo @@GW@@rr@@Wi@@rs@@Gt @@WC@@ro@@Wv@@Ge@@rr@@Gs@@g were placed here.@@N~
+Vnum         1038
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       1
+Heat         1
+Level        61
+Values       3 0 30 30 30 61 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Jacket~
+ShortDescr   @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N~
+Description  @@dA@@r Mi@@Gth@@rri@@Gl@@y Jac@@bke@@yt@@N is laying on the ground.~
+Vnum         1113
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         2
+Level        80
+Values       1 0 49 80 40 40 40 40 40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof cape~
+ShortDescr   @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N~
+Description  @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N has been left here.~
+Vnum         1104
+ExtraFlags   0
+WearFlags    8454144
+WearLoc      16
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 0 45 90 45 45 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         556mm magazine ammo~
+ShortDescr   a 5.56mm rifle magazine~
+Description  A 5.56mm ammo magazine waits for a weapon to fire from.~
+Vnum         1158
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     2
+Weight       2
+Heat         0
+Level        70
+Values       36 30 0 0 0 6 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         medpack med pack~
+ShortDescr   a medpack~
+Description  A medpack awaits for the taking.~
+Vnum         1014
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     7
+Weight       1
+Heat         0
+Level        10
+Values       5 0 0 0 0 19 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       3 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 40 80 40 40 40 40 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         fireproof neckbrace~
+ShortDescr   @@eF@@Rir@@ee@@Rpro@@eof@@p Nec@@mkbr@@pace@@N~
+Description  @@eF@@Rir@@ee@@Rpro@@eof@@p Nec@@mkbr@@pace@@N is laying on the ground.~
+Vnum         1109
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       4 0 45 45 45 45 90 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Spectra Helmet~
+ShortDescr   a @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N~
+Description  A @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N has been left on the ground.~
+Vnum         1040
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        99
+Values       1 0 49 99 49 49 49 49 49 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         finger gloves~
+ShortDescr   @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N~
+Description  @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N are laying on the ground.~
+Vnum         1117
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        90
+Values       1 0 45 90 78 65 45 45 45 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 30 60 30 30 30 30 30 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         plastic necklace~
+ShortDescr   @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N~
+Description  @@dPla@@Wsti@@dc@@r Nec@@Gkla@@rce@@N is hanging on the wall.~
+Vnum         1079
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -1
+Level        70
+Values       3 0 35 35 35 70 35 35 35 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring~
+ShortDescr   @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N~
+Description  @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N has been dropped here.~
+Vnum         1081
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         1
+Level        85
+Values       3 0 42 42 42 85 42 42 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring~
+ShortDescr   @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N~
+Description  @@yAn@@r Ac@@Gid@@rpr@@Woo@@rf Ri@@Gng@@N has been dropped here.~
+Vnum         1081
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      13
+ItemType     9
+Weight       1
+Heat         1
+Level        85
+Values       3 0 42 42 42 85 42 42 42 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nuclear Bomb Nuke~
+ShortDescr   @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@N~
+Description  @@gA @@WS@@yma@@Wl@@gl @@WN@@yuc@@Wl@@ge@@Wa@@yr B@@Wo@@gm@@Wb@@g ticks here.~
+Vnum         1028
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       30
+Heat         0
+Level        94
+Values       0 0 60 1 10 2 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

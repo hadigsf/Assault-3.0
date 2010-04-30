@@ -1,0 +1,313 @@
+#PLAYER
+Revision     52
+Name         Bob~
+Prompt       %s~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        15
+Level        0
+Invis        90
+Incog		 90
+Trust        90
+Wizbit       1
+Played       65613
+PlayedTot    1686393
+Note         0
+Room         3
+Location         1 1 2
+Hp   		30000 30000
+Act          1073762304
+Config       266343
+Position     7
+Questpoints  5532
+Pkills	   0
+Bkills	   0
+TPkills	   7
+TBkills	   0
+Deaths	   10
+BLost	   0
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   1
+GPoints	   0
+Implants     0
+Password     BofdCpnwuXggM~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Whoname      Woff~
+Monitor	   0
+Host         4.165.186.214~
+Failures     0
+LastLogin    Fri Dec 28 00:49:12 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        30000
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       9 9
+Spec         60
+Setexit      0
+Experience   230
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -1
+Alias    z~  oset rafter v1 1~
+Alias    x~  oset rafter extra +nodrop~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         AK-105 gun rifle~
+ShortDescr   an @@bAK@@d-@@b105@@N~
+Description  A shiny new @@bAK@@d-@@b105 @@Nrifle is on its side.~
+Vnum         1007
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     5
+Weight       2
+Heat         0
+Level        50
+Values       30 30 15 0 2 2 0 30 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         pipe~
+ShortDescr   @@1Ice's stolen @@7crack@@epipe~
+Description  A sleek @@GM@@d4A@@G1 ca@@drb@@Gine@@N waits to be used.~
+Vnum         1008
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        70
+Values       3999999 4000000 11 0 100 0 20 10000 10000 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         helm~
+ShortDescr   an iron helm ;with attached titanium visor~
+Description  @@WA @@aC@@Wr@@cy@@as@@ct@@Wa@@al@@W Helm@@N~
+Vnum         504
+ExtraFlags   2
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        70
+Values       -2 0 70 70 70 70 70 70 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         goggles~
+ShortDescr   a pare of infravision goggles with kevlar lining~
+Description  @@RS@@mo@@eme@@m G@@Ro@@mg@@egl@@me@@Rs@@N lay dirty here.~
+Vnum         1024
+ExtraFlags   2
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       2
+Heat         -1
+Level        10
+Values       2 0 100 100 100 100 100 100 100 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         mask~
+ShortDescr   a titanium facemask~
+Description  @@eLas@@der@@ePro@@lof@@p Ma@@msk@@N are laying here.~
+Vnum         1097
+ExtraFlags   2
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       1
+Heat         -1
+Level        50
+Values       5 0 100 100 100 100 100 100 100 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ear~
+ShortDescr   platinum-studded earring~
+Description  @@gAn @@WEar @@gCom. @@WUnit@@N~
+Vnum         1026
+ExtraFlags   2
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         -1
+Level        5
+Values       3 0 100 100 100 100 100 100 100 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ear~
+ShortDescr   platinum-studded earring~
+Description  @@gAn @@WEar @@gCom. @@WUnit@@N~
+Vnum         1026
+ExtraFlags   2
+WearFlags    8388672
+WearLoc      4
+ItemType     9
+Weight       1
+Heat         -1
+Level        5
+Values       3 0 100 100 100 100 100 100 2 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         neck~
+ShortDescr   titanium-reinforced neckplate~
+Description  @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Vnum         1027
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -1
+Level        8
+Values       1 0 100 100 100 100 100 100 100 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         neck~
+ShortDescr   titanium-reinforced neckplate~
+Description  @@gA @@dm@@be@@dt@@ga@@dl @@bN@@de@@gc@@dk@@bp@@dl@@ga@@dt@@be@@N~
+Vnum         1027
+ExtraFlags   2
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -1
+Level        8
+Values       1 0 100 100 100 100 100 100 100 100 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         shoul~
+ShortDescr   iron-jointed shoulderplates~
+Description  @@bBra@@yss@@d Shou@@Wlder@@dpa@@Wds@@N have been thrown down.~
+Vnum         1056
+ExtraFlags   2
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       3
+Heat         -1
+Level        80
+Values       3 0 100 100 100 100 100 100 100 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         arm~
+ShortDescr   titanium bodyarmor with kevlar and iron lining~
+Description  @@WLiquid @@aC@@Wr@@cy@@as@@ct@@Wa@@al@@W Armor@@N~
+Vnum         505
+ExtraFlags   2
+WearFlags    45555416
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       -2 0 80 80 80 80 80 80 80 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         c4 charge bomb large~
+ShortDescr   a C4 charge~
+Description  A large C4 charge was left here.~
+Vnum         1002
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     3
+Weight       4
+Heat         0
+Level        10
+Values       3 0 100 0 15 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Laptop Computer~
+ShortDescr   @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Description  @@gA @@dLa@@gpt@@dop @@gCo@@dmp@@gut@@der@@N~
+Vnum         10
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     19
+Weight       2
+Heat         0
+Level        50
+Values       4 25 0 0 0 0 0 0 25 0 0 0 0 0 0
+Quest       0 0
+End
+
+#END

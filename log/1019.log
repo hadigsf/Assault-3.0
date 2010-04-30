@@ -1,0 +1,362 @@
+Sat Jan  3 23:26:32 2009 :: Reading Area Files...
+Sat Jan  3 23:26:32 2009 :: Loading web data.
+Sat Jan  3 23:26:32 2009 :: Loading Building Table....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/building_table.txt
+
+Sat Jan  3 23:26:32 2009 :: Buildings: 138
+Sat Jan  3 23:26:32 2009 :: Loading Wilderness....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/map.txt
+
+Sat Jan  3 23:26:32 2009 :: Creating Special Maps....
+Sat Jan  3 23:26:32 2009 :: Loading Buildings....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/buildings.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading Objects....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/objects.lst
+
+Sat Jan  3 23:26:32 2009 :: [*****] FILE: ../data/objects.lst LINE: 21471
+Sat Jan  3 23:26:32 2009 :: [*****] BUG: SSM: The shared string heap is full!
+Sat Jan  3 23:26:32 2009 :: SSM: Attempting to optimize shared string heap.
+Sat Jan  3 23:26:32 2009 :: SSM: defrag_heap: made 1 block merges.
+Sat Jan  3 23:26:32 2009 :: Loading High Scores....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/scores.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading ../data/ranks.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading alliances....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/alliances.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading changes.
+Sat Jan  3 23:26:32 2009 :: Loading logs.
+Sat Jan  3 23:26:32 2009 :: Creating item load list....
+Sat Jan  3 23:26:32 2009 :: Loading Disabled Commands...
+Sat Jan  3 23:26:32 2009 :: Loading Multiplay list....
+Sat Jan  3 23:26:32 2009 :: Loading ../data/multiplay.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading quotes.
+Sat Jan  3 23:26:32 2009 :: Loading ../data/quotes.txt
+
+Sat Jan  3 23:26:32 2009 :: Loading banned sites.
+Sat Jan  3 23:26:32 2009 :: Loading ../data/bans.lst
+
+Sat Jan  3 23:26:32 2009 :: Done Loading ../data/bans.lst
+Sat Jan  3 23:26:32 2009 :: Loading Relevel Info.
+Sat Jan  3 23:26:32 2009 :: Loading imm brands.
+Sat Jan  3 23:26:32 2009 :: Loading System Data.
+Sat Jan  3 23:26:32 2009 :: Loading vehicles...
+Sat Jan  3 23:26:32 2009 :: Loading ../data/vehicles.txt
+
+Sat Jan  3 23:26:32 2009 :: ACK! MUD is ready on port 6660.
+Used 1 user CPU seconds.
+Sat Jan  3 23:26:35 2009 :: Loading ../data/objects.bak
+
+Sat Jan  3 23:58:20 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 00:30:03 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 01:01:49 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 01:33:40 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 02:05:32 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 02:37:23 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 03:09:16 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 03:41:14 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 04:13:15 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 04:45:14 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 05:17:15 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 05:49:20 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 06:21:27 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 06:53:37 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 07:25:48 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 07:58:01 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 08:30:13 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 09:02:27 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 09:34:48 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 10:07:08 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 10:39:28 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 11:11:50 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 11:44:16 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 12:16:44 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 12:49:14 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 13:21:43 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 13:54:17 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 14:26:51 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 14:59:26 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 15:32:05 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 16:04:47 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 16:37:28 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 17:10:11 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 17:42:59 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 18:15:48 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 18:48:38 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 19:21:28 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 19:54:26 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 20:27:23 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 21:00:18 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 21:33:19 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 22:06:24 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 22:39:29 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 23:12:35 2009 :: Loading ../data/objects.bak
+
+Sun Jan  4 23:45:47 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 00:19:01 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 00:52:18 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 01:25:36 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 01:58:59 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 02:32:23 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 03:05:50 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 03:39:20 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 04:12:54 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 04:46:30 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 05:20:11 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 05:53:52 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 06:27:38 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 07:01:31 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 07:35:21 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 08:09:15 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 08:43:13 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 09:17:11 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 09:51:12 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 10:25:18 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 10:59:27 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 11:33:37 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 12:07:51 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 12:42:10 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 13:16:30 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 13:50:55 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 14:25:21 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 14:59:58 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 15:34:50 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 16:09:49 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 16:44:42 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 17:19:33 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 17:54:27 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 18:29:19 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 19:04:08 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 19:39:03 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 20:13:59 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 20:48:56 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 21:24:00 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 21:59:04 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 22:34:10 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 23:09:22 2009 :: Loading ../data/objects.bak
+
+Mon Jan  5 23:44:36 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 00:19:50 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 00:55:09 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 01:30:31 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 02:05:57 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 02:41:23 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 03:16:53 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 03:52:27 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 04:28:02 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 05:03:39 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 05:39:20 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 06:15:03 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 06:50:49 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 07:26:42 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 08:02:43 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 08:38:38 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 09:14:34 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 09:50:33 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 10:26:38 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 11:02:43 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 11:38:52 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 12:15:03 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 12:51:26 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 13:27:45 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 14:04:08 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 14:40:33 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 15:17:09 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 15:53:41 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 16:30:19 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 17:06:58 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 17:43:51 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 18:20:35 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 18:57:24 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 19:34:12 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 20:11:17 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 20:48:10 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 21:25:15 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 22:00:02 2009 :: Sock.sinaddr:  192.168.1.1 (1648)
+Tue Jan  6 22:00:08 2009 :: Site Name: 192.168.1.1.
+Tue Jan  6 22:00:08 2009 :: Demortes connected from 192.168.1.1 ( last login was from 127.0.0.1 ) !
+Tue Jan  6 22:00:08 2009 :: Demortes logged on from IP 192.168.1.1
+Tue Jan  6 22:00:19 2009 :: Log Demortes: oload board
+Tue Jan  6 22:00:23 2009 :: Demortes has left Assault: High Tech War!
+Tue Jan  6 22:02:27 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 22:39:47 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 23:16:52 2009 :: Loading ../data/objects.bak
+
+Tue Jan  6 23:54:11 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 00:31:30 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 01:09:00 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 01:46:22 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 02:23:53 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 03:01:28 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 03:39:18 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 04:16:53 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 04:54:43 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 05:32:29 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 06:10:48 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 06:48:40 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 07:28:28 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 08:07:18 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 08:45:53 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 09:24:42 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 10:08:24 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 10:52:25 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 11:47:51 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 12:42:41 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 13:43:40 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 14:48:53 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 17:22:25 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 18:42:37 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 20:57:10 2009 :: Loading ../data/objects.bak
+
+Wed Jan  7 22:34:46 2009 :: Loading ../data/objects.bak
+

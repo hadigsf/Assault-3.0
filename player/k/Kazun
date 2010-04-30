@@ -1,0 +1,653 @@
+#PLAYER
+Revision     52
+Name         Kazun~
+Prompt       @@W(@@c%C-%s@@W) @@W[@@gExits:%E@@W] @@e%h/%H@@Rhp @@N> ~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        14
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       11384
+PlayedTot    48760
+Note         0
+Room         3
+Location         295 327 1
+Hp   		388 500
+Act          0
+Config       262503
+Position     7
+Questpoints  493
+Pkills	   2
+Bkills	   0
+TPkills	   2
+TBkills	   5
+Deaths	   0
+BLost	   12
+PBHits	   0
+PBDeaths	   0
+NukemWins	   0
+Medals	   0
+GPoints	   0
+Implants     0
+Password     KaUZ.GI7iC0QA~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        ~
+Whoname      Woff~
+Monitor	   0
+Host         72.87.57.164~
+Failures     0
+LastLogin    Tue Dec 18 18:17:03 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   16
+Disease	   0
+Effect	   0
+Alliance     -1
+Suicided	   0
+MedalTimer   0
+FightTimer   0
+Reimb        0
+ProfPt       0 3
+Spec         2
+Setexit      0
+Experience   49
+ 
+Refund   675   0   0   0   0   0   0   13
+Skill   6   0   0   0   0   1   0   0   18   1   2   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#OBJECT
+Nest         0
+Name         Mining Beam~
+ShortDescr   @@bA M@@minin@@bg Be@@mam@@N~
+Description  @@bA M@@minin@@bg Be@@mam@@N~
+Vnum         32672
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     28
+Weight       1
+Heat         1
+Level        1
+Values       2 0 10 11 12 13 14 15 0 8 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Traffic Jammer 5th~
+ShortDescr   Blueprints for 5th level Traffic jammer~
+Description  Blueprints for 5th level Traffic jammer~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       53 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Iron~
+ShortDescr   @@gA small piece of @@dIron@@N~
+Description  @@gA small piece of @@dIron@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       0 209 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource tree log~
+ShortDescr   @@gA fallen @@rlog@@N~
+Description  @@gA fallen @@rlog@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       7 119 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Resource Rock~
+ShortDescr   @@gA large @@drock@@N~
+Description  @@gA large @@drock@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       5 77 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource Stick~
+ShortDescr   @@gA broken @@bstick@@N~
+Description  @@gA broken @@bstick@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       6 53 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource skin~
+ShortDescr   @@gSome animal @@bskin@@N~
+Description  @@gSome animal @@bskin@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       50
+Heat         0
+Level        1
+Values       1 118 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource silver~
+ShortDescr   @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Description  @@gA flake of @@WS@@gi@@dlv@@ge@@Wr@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       4 20 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource copper~
+ShortDescr   @@gA chip of @@bco@@Rpp@@ber@@N~
+Description  @@gA chip of @@bco@@Rpp@@ber@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       2 15 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         resource gold~
+ShortDescr   @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Description  @@gA @@yg@@bo@@yl@@bd @@gpebble@@N~
+Vnum         32699
+ExtraFlags   0
+WearFlags    8388608
+WearLoc      -1
+ItemType     40
+Weight       0
+Heat         0
+Level        1
+Values       3 35 1 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Improved Mine 5th~
+ShortDescr   Blueprints for 5th level Improved mine~
+Description  Blueprints for 5th level Improved mine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       48 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Blueprint Improved Mine 5th~
+ShortDescr   Blueprints for 5th level Improved mine~
+Description  Blueprints for 5th level Improved mine~
+Vnum         32693
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      -1
+ItemType     4
+Weight       0
+Heat         0
+Level        5
+Values       48 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof belt~
+ShortDescr   a@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N~
+Description  A@@a Bul@@clet@@lpro@@Bof@@r Be@@Glt@@N has been dropped here.~
+Vnum         1105
+ExtraFlags   0
+WearFlags    8519680
+WearLoc      17
+ItemType     9
+Weight       1
+Heat         1
+Level        95
+Values       1 0 -24 95 26 -80 -3 -14 -31 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         necklace silver bullet hook~
+ShortDescr   @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N~
+Description  @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N has been dropped here.~
+Vnum         1114
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      5
+ItemType     9
+Weight       1
+Heat         -2
+Level        85
+Values       1 0 0 85 0 0 -29 0 19 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      4
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra leggings~
+ShortDescr   @@pSp@@bec@@rtra @@rle@@pggi@@lngs@@N~
+Description  @@pSp@@bec@@rtra @@rle@@pggi@@lngs@@N~
+Vnum         1119
+ExtraFlags   0
+WearFlags    9437184
+WearLoc      19
+ItemType     9
+Weight       1
+Heat         -1
+Level        99
+Values       1 0 0 99 0 20 -30 -10 -37 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring silver bullet~
+ShortDescr   @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Description  @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Vnum         1118
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      12
+ItemType     9
+Weight       1
+Heat         -1
+Level        75
+Values       1 0 0 75 -67 19 -69 -33 -47 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra arm guards~
+ShortDescr   @@pSp@@bec@@rtra arm guards@@N~
+Description  @@pSp@@bec@@rtra arm guards@@N~
+Vnum         1116
+ExtraFlags   0
+WearFlags    8389632
+WearLoc      8
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 0 80 -46 0 77 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra should guards~
+ShortDescr   @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Description  @@pSp@@bec@@rtra @@bsh@@Wo@@bul@@Wde@@br g@@Wu@@bar@@Wd@@bs@@N~
+Vnum         1115
+ExtraFlags   0
+WearFlags    8389120
+WearLoc      7
+ItemType     9
+Weight       1
+Heat         0
+Level        90
+Values       1 0 40 90 -33 -34 -30 0 -40 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectra boots~
+ShortDescr   @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Description  @@pSp@@bec@@rtra @@bb@@doo@@bts@@N~
+Vnum         1120
+ExtraFlags   0
+WearFlags    10485760
+WearLoc      20
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 0 0 90 -11 -19 -68 1 12 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         RT-20 RT20 20mm sniper rifle~
+ShortDescr   @@Ga@@dn @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N~
+Description  @@NA large @@rR@@GT@@c-@@d2@@G0 @@ca@@dn@@rt@@Gi@@c-@@dm@@Ga@@rt@@Ge@@cr@@di@@Ga@@cl @@ds@@Gn@@ri@@Gp@@ce@@dr @@Gr@@ci@@df@@Gl@@re@@N waits for that perfect shot.~
+Vnum         1123
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      14
+ItemType     5
+Weight       4
+Heat         0
+Level        99
+Values       0 3 14 0 5 0 15 0 0 50 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Nightvision Goggles~
+ShortDescr   @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Description  @@rNi@@dgh@@rtv@@dis@@rio@@dn G@@rog@@dgl@@res@@N~
+Vnum         1041
+ExtraFlags   0
+WearFlags    41943040
+WearLoc      1
+ItemType     9
+Weight       1
+Heat         -1
+Level        80
+Values       1 0 20 80 -20 0 0 -25 20 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Spectra Helmet~
+ShortDescr   a @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N~
+Description  A @@eSpe@@Rct@@era@@l Hel@@Bme@@lt@@N has been left on the ground.~
+Vnum         1040
+ExtraFlags   0
+WearFlags    8388616
+WearLoc      0
+ItemType     9
+Weight       1
+Heat         1
+Level        99
+Values       1 0 20 99 -30 0 -40 20 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      9
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof earring~
+ShortDescr   @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N~
+Description  @@eBul@@Rlet@@pPro@@mof@@d Ear@@Wrin@@dgs@@N have been tossed down.~
+Vnum         1103
+ExtraFlags   0
+WearFlags    8388672
+WearLoc      3
+ItemType     9
+Weight       1
+Heat         1
+Level        80
+Values       1 0 -46 80 0 17 -30 24 70 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Mithril Wristguard~
+ShortDescr   @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N~
+Description  @@lMit@@Bhri@@ll@@y Wris@@btgua@@yrds@@N have been dropped on the ground~
+Vnum         1061
+ExtraFlags   0
+WearFlags    8390656
+WearLoc      10
+ItemType     9
+Weight       5
+Heat         -1
+Level        60
+Values       1 0 20 60 0 -20 -30 15 3 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         Vest Bullet Proof Bulletproof~
+ShortDescr   @@dA Bullet-Proof Vest@@N~
+Description  @@dA Bullet-Proof Vest hangs here.@@N~
+Vnum         1016
+ExtraFlags   0
+WearFlags    8650752
+WearLoc      18
+ItemType     9
+Weight       1
+Heat         1
+Level        20
+Values       1 0 9 20 3 -5 -2 0 -5 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         finger gloves~
+ShortDescr   @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N~
+Description  @@dblack @@bf@@Wi@@bn@@Wg@@be@@Wr @@bg@@Wl@@bo@@Wv@@be@@Ws@@N are laying on the ground.~
+Vnum         1117
+ExtraFlags   0
+WearFlags    8392704
+WearLoc      11
+ItemType     9
+Weight       1
+Heat         -1
+Level        90
+Values       1 0 0 90 78 65 0 -45 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof cape~
+ShortDescr   @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N~
+Description  @@eBul@@Rlet@@Bpro@@lof@@p Ca@@mpe@@N has been left here.~
+Vnum         1104
+ExtraFlags   0
+WearFlags    8454144
+WearLoc      16
+ItemType     9
+Weight       1
+Heat         -2
+Level        90
+Values       1 0 0 90 0 0 -3 0 0 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring silver bullet~
+ShortDescr   @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Description  @@pa r@@bin@@rg a@@ptt@@bac@@rhe@@pd t@@bo a @@ds@@gi@@dl@@gv@@de@@gr @@db@@gu@@dl@@gl@@de@@gt@@N~
+Vnum         1118
+ExtraFlags   0
+WearFlags    8396800
+WearLoc      13
+ItemType     9
+Weight       1
+Heat         -1
+Level        75
+Values       1 0 0 75 -67 19 -69 -33 -47 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         necklace silver bullet hook~
+ShortDescr   @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N~
+Description  @@pa n@@bec@@rkl@@pac@@be h@@roo@@pke@@bd t@@ro a @@gs@@di@@gl@@dv@@ge@@dr @@gb@@du@@gl@@dl@@ge@@dt@@N has been dropped here.~
+Vnum         1114
+ExtraFlags   0
+WearFlags    8388736
+WearLoc      6
+ItemType     9
+Weight       1
+Heat         -2
+Level        85
+Values       1 0 0 85 0 0 -29 0 19 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         bulletproof mask~
+ShortDescr   a@@e Bul@@Rlet@@lPro@@Bof@@c Ma@@ask@@N~
+Description  A@@e Bul@@Rlet@@lPro@@Bof@@c Ma@@ask@@N has been dropped here.~
+Vnum         1099
+ExtraFlags   0
+WearFlags    8388624
+WearLoc      2
+ItemType     9
+Weight       2
+Heat         1
+Level        70
+Values       1 0 -63 70 -65 -1 1 -5 -69 0 0 0 0 0 0
+Quest       0 0
+End
+
+#OBJECT
+Nest         0
+Name         G11 rifle gun~
+ShortDescr   a @@rG11 @@Gas@@rsault @@Gri@@rfle@@N~
+Description  A @@rG11 @@Gas@@rsault @@Gri@@rfle@@N is ready to make some bullet holes.~
+Vnum         1011
+ExtraFlags   0
+WearFlags    8421376
+WearLoc      15
+ItemType     5
+Weight       2
+Heat         0
+Level        99
+Values       150 150 39 0 2 0 2 7 1 -2 0 0 0 0 0
+Quest       0 0
+End
+
+#END

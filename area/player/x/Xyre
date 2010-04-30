@@ -1,0 +1,92 @@
+#PLAYER
+Revision     52
+Name         Xyre~
+Prompt       %s:%C @@d(%E) @@G(QP@@r%Q@@d/@@GXP@@r%x@@G)%c@@d%T @@b(T:@@m%r@@b) @@cHP@@a%h@@d/@@c%H @@d(@@RVH@@e%v@@d/@@R%V VF@@e%f@@d/@@R%F VA@@e%m@@d/@@R%M@@d) %q@@N >%c~
+Dead	       0
+Deleted      0
+Sex          1
+LoginSex     1
+Class        4
+Level        0
+Invis        0
+Incog		 0
+Trust        0
+Wizbit       0
+Played       762
+PlayedTot    316567
+Note         0
+Room         3
+Location         11 992 1
+Hp   		409 500
+Act          0
+Config       5515623
+Position     7
+Questpoints  267
+Pkills	   0
+Bkills	   0
+TPkills	   25
+TBkills	   141
+Deaths	   22
+BLost	   233
+PBHits	   3
+PBDeaths	   3
+NukemWins	   0
+Medals	   1
+GPoints	   0
+Implants     0
+Password     XyS6YUtMpOEv6~
+Bamfin       ~
+Bamfout      ~
+Roomenter    moves in from~
+Roomexit     moves~
+Title        - fight the war, fuck the norm.~
+Whoname      W@@rf@@Gr@@Cagme@@Gn@@rt@@N ~
+Monitor	   0
+Host         98.203.197.222~
+Failures     0
+LastLogin    Tue Dec 25 00:02:03 2007
+~
+Loadmsg	   ~
+HiCol	   y~
+DimCol	   b~
+TermRows    25
+TermColumns    80
+Email   not set~
+EmailValid    0
+colors
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+GainHp        500
+Pagelen      50
+Pflags       0
+Map	   25
+Disease	   0
+Effect	   0
+Alliance     7
+Suicided	   0
+MedalTimer   634
+FightTimer   0
+Reimb        0
+ProfPt       0 4
+Spec         2
+Setexit      0
+Experience   52
+ 
+Refund   0   0   0   0   0   0   0   0
+Skill   0   0   99   0   0   0   0   0   16   2   2   0   0   0   0   -1
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+Alias    ~  ~
+End
+
+#END
