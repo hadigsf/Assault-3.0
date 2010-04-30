@@ -1,8 +1,0 @@
-Wed Jan 21 21:54:59 2009 ::     Demortes: listbuildings 
-Wed Jan 21 21:55:04 2009 ::     Demortes: who 
-Wed Jan 21 21:55:06 2009 ::     Demortes: look at board
-Wed Jan 21 21:55:08 2009 ::     Demortes: oload board
-Wed Jan 21 21:55:11 2009 ::     Demortes: look at board
-Wed Jan 21 21:55:14 2009 ::     Demortes: exit 
-Wed Jan 21 21:55:16 2009 ::     Demortes: quit 
-Wed Jan 21 21:55:47 2009 ::     Demortes: shutdown now
